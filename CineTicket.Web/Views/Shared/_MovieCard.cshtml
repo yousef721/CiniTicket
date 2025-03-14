@@ -1,0 +1,34 @@
+@model IEnumerable<Movie>
+
+<div class="row g-3">
+    @foreach (var movie in Model)
+    {
+        <div class="col-12 col-lg-6"> 
+            <div class="card h-100 d-flex flex-column">
+                <div class="card-header">
+                    @movie.Title
+                </div>
+                <div class="d-flex flex-row"> 
+                    <div style="width: 250px; height: 350px; overflow: hidden;">
+                        <img src="~/images/movies/@movie.ImgUrl" 
+                            alt="Image" 
+                            class="img-fluid" 
+                            style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div class="card-body d-flex flex-column justify-content-around">
+                        <p>Price <span class="text-primary">$@movie.Price</span></p>
+                        <p>Cinema: @movie.Cinema.Name</p>
+                        <p>Start-Date: @movie.StartDate</p>
+                        <p>End-Date: @movie.EndDate</p>
+                        <p>Category: @movie.Category.Name</p>
+                        <p class="status w-25">@movie.MovieStatus</p>
+                        <div class="d-flex justify-content-around">
+                            <a href="/Movie/Details?MovieId=@movie.Id" class="btn btn-outline-primary">More Details</a>
+                            <partial name="_BookTicketButton" model="@movie" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

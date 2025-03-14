@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Cinema>
+
+<div>
+    <h1 class="mb-4">Cinemas</h1>
+    <a asp-action="Create" class="btn btn-success mb-3">Create New Cinema</a>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Cinema Name</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cinema in Model)
+            {
+                <tr>
+                    <td>@cinema.Name</td>
+                    <td>
+                        <a asp-action="Details" asp-controller="Cinema" asp-route-cinemaId="@cinema.Id" class="btn btn-info btn-md">View Movies</a>
+                        <a asp-action="Edit" asp-controller="Cinema" asp-route-cinemaId="@cinema.Id" class="btn btn-warning btn-md">Edit</a>
+                        <a asp-action="Delete" asp-controller="Cinema" asp-route-cinemaId="@cinema.Id" class="btn btn-danger btn-md">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
