@@ -13,3 +13,4 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Services/obj/Debug/net9.0/refint/CineTicket.Services.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Services/obj/Debug/net9.0/CineTicket.Services.pdb
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Services/obj/Debug/net9.0/ref/CineTicket.Services.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Services/obj/Debug/net9.0/CineTicket.Services.sourcelink.json

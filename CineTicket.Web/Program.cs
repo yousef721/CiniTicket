@@ -1,7 +1,6 @@
 using CineTicket.Core.Interfaces;
-using CineTicket.Core.Interfaces.ReposInterfaces;
 using CineTicket.Data.Data;
-using CineTicket.Data.Repositories.Implementations;
+using CineTicket.Data.UnitOfWork;
 using CineTicket.Services.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,12 +15,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddScoped<IMovieRepository, MovieRepository>();
-builder.Services.AddScoped<IActorRepository, ActorRepository>();
-builder.Services.AddScoped<ICinemaRepository, CinemaRepository>();
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-builder.Services.AddScoped<IMyService, MyService>();
 
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IServices, Services>();
 
 
 var app = builder.Build();

@@ -535,3 +535,4 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Castle.Core.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Proxies.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/CineTicket.Web.sourcelink.json

@@ -9,3 +9,4 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Core/obj/Debug/net9.0/refint/CineTicket.Core.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Core/obj/Debug/net9.0/CineTicket.Core.pdb
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Core/obj/Debug/net9.0/ref/CineTicket.Core.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Core/obj/Debug/net9.0/CineTicket.Core.sourcelink.json

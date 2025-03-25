@@ -1,5 +1,5 @@
 using System.Linq.Expressions;
-using CineTicket.Core.Interfaces;
+using CineTicket.Core.Interfaces.ReposInterfaces;
 using CineTicket.Data.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,12 +15,12 @@ public class Repository<T> : IRepository<T> where T : class
         _dbContext = dbContext;
         _dbSet = _dbContext.Set<T>();
     }
-    public void Add(T entity)
+    public void Create(T entity)
     {
         _dbSet.Add(entity);
         _dbContext.SaveChanges();
     }
-    public void Alter(T entity) 
+    public void Update(T entity) 
     {
         _dbSet.Update(entity);
         _dbContext.SaveChanges();
@@ -30,7 +30,7 @@ public class Repository<T> : IRepository<T> where T : class
         _dbSet.Remove(entity);
         _dbContext.SaveChanges();
     }
-    public IQueryable<T> Get(Expression<Func<T, bool>>? filter = null, Func<IQueryable<T>, IQueryable<T>>? include = null,bool tracked = true)
+    public IQueryable<T> Read(Expression<Func<T, bool>>? filter = null, Func<IQueryable<T>, IQueryable<T>>? include = null, bool tracked = true)
     {
         IQueryable<T> query = _dbSet;
 
@@ -51,8 +51,8 @@ public class Repository<T> : IRepository<T> where T : class
     
         return query;
     }
-    public T GetOne(Expression<Func<T, bool>>? filter = null, Func<IQueryable<T>, IQueryable<T>>? include = null, bool tracked = true)
+    public T ReadOne(Expression<Func<T, bool>>? filter = null, Func<IQueryable<T>, IQueryable<T>>? include = null, bool tracked = true)
     {   
-        return Get(filter, include, tracked).FirstOrDefault() ?? throw new Exception("Entity not found.");
+        return Read(filter, include, tracked).FirstOrDefault() ?? throw new Exception("Entity not found.");
     }
 }
