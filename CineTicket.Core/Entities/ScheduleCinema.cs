@@ -11,7 +11,6 @@ public class ScheduleCinema
     public int HallId { get; set; }
     public virtual Hall Hall { get; set; } = null!;
 
-    // Computed properties
-    public DateTime EndTime { get; set; }
-
+    // Ignore computed property
+    public DateTime EndTime => StartTime.AddSeconds(Duration.Seconds);
 }
