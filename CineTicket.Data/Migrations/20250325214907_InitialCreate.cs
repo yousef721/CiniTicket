@@ -222,7 +222,7 @@ namespace CineTicket.Data.Migrations
                         column: x => x.HallId,
                         principalTable: "Halls",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
                         name: "FK_ScheduleCinema_MovieId",
                         column: x => x.MovieId,

@@ -25,7 +25,7 @@ public class ScheduleCinemaConfig : IEntityTypeConfiguration<ScheduleCinema>
         // Relationships
         builder.HasOne(sc => sc.Movie).WithMany(c => c.ScheduleCinemas).HasForeignKey(sc => sc.MovieId).HasConstraintName("FK_ScheduleCinema_MovieId").OnDelete(DeleteBehavior.Cascade);
         builder.HasOne(sc => sc.Cinema).WithMany(c => c.ScheduleCinemas).HasForeignKey(sc => sc.CinemaId).HasConstraintName("FK_ScheduleCinema_CinemaId").OnDelete(DeleteBehavior.Cascade);
-        builder.HasOne(sc => sc.Hall).WithMany(c => c.ScheduleCinemas).HasForeignKey(sc => sc.HallId).HasConstraintName("FK_ScheduleCinema_HallId").OnDelete(DeleteBehavior.Cascade);
+        builder.HasOne(sc => sc.Hall).WithMany(c => c.ScheduleCinemas).HasForeignKey(sc => sc.HallId).HasConstraintName("FK_ScheduleCinema_HallId").OnDelete(DeleteBehavior.Restrict);
 
         // Ignore computed properties
         builder.Ignore(sc => sc.EndTime);

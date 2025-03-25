@@ -532,7 +532,7 @@ namespace CineTicket.Data.Migrations
                     b.HasOne("CineTicket.Core.Entities.Hall", "Hall")
                         .WithMany("ScheduleCinemas")
                         .HasForeignKey("HallId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired()
                         .HasConstraintName("FK_ScheduleCinema_HallId");
 

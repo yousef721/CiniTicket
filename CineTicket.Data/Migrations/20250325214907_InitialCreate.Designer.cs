@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CineTicket.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250325041650_InitialCreate")]
+    [Migration("20250325214907_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -535,7 +535,7 @@ namespace CineTicket.Data.Migrations
                     b.HasOne("CineTicket.Core.Entities.Hall", "Hall")
                         .WithMany("ScheduleCinemas")
                         .HasForeignKey("HallId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired()
                         .HasConstraintName("FK_ScheduleCinema_HallId");
 
