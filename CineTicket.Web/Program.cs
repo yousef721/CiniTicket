@@ -4,17 +4,17 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddAutoMapper(typeof(Program)); 
-
 // Add services to the container.
+builder.Services.AddAutoMapper(typeof(Program)); 
 
 builder.Services.AddControllersWithViews();
 
+// Configure database context with lazy loading proxies
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
-// Dependency injection Repositories And Services
+// Dependency Injection
 builder.Services.AddApplicationServices();
 
 
@@ -36,10 +36,15 @@ app.UseAuthorization();
 
 app.MapStaticAssets();
 
+// Default route setup
 app.MapControllerRoute(
     name: "default",
-    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}")
+    pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+// Area route setup
+app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
