@@ -9,10 +9,10 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTicket.Data.AssemblyInfoInputs.cache
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTicket.Data.AssemblyInfo.cs
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTicket.Data.csproj.CoreCompileInputs.cache
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTicket.Data.sourcelink.json
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTick.E9C7ED40.Up2Date
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTicket.Data.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/refint/CineTicket.Data.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTicket.Data.pdb
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTicket.Data.genruntimeconfig.cache
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/ref/CineTicket.Data.dll
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/obj/Debug/net9.0/CineTicket.Data.sourcelink.json

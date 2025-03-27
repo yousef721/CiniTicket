@@ -2,7 +2,7 @@ using CineTicket.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace CineTicket.Data.Data.configurations;
+namespace CineTicket.Data.Data.Configurations;
 
 public class ScheduleCinemaConfig : IEntityTypeConfiguration<ScheduleCinema>
 {
@@ -11,7 +11,7 @@ public class ScheduleCinemaConfig : IEntityTypeConfiguration<ScheduleCinema>
         builder.ToTable("ScheduleCinemas");
         builder.HasKey(sc => sc.Id);
         builder.Property(sc => sc.StartTime).IsRequired();
-        builder.Property(sc => sc.Duration).HasColumnType("time").IsRequired();
+        builder.Property(sc => sc.Duration).IsRequired();
         builder.Property(sc => sc.HallId).IsRequired();
         builder.Property(sc => sc.MovieId).IsRequired();
         builder.Property(sc => sc.CinemaId).IsRequired();
@@ -20,7 +20,7 @@ public class ScheduleCinemaConfig : IEntityTypeConfiguration<ScheduleCinema>
         builder.HasIndex(sc => new { sc.StartTime, sc.HallId }).IsUnique();
 
         // Check constraints 
-        builder.ToTable(tb => tb.HasCheckConstraint("CK_ScheduleCinema_Duration", "DATEDIFF(SECOND, '00:00:00', [Duration]) > 0"));
+        builder.ToTable(tb => tb.HasCheckConstraint("CK_ScheduleCinema_Duration", "[Duration] > 0"));
 
         // Relationships
         builder.HasOne(sc => sc.Movie).WithMany(c => c.ScheduleCinemas).HasForeignKey(sc => sc.MovieId).HasConstraintName("FK_ScheduleCinema_MovieId").OnDelete(DeleteBehavior.Cascade);

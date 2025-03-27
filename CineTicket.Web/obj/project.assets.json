@@ -1730,6 +1730,21 @@
           }
         }
       },
+      "CineTicket.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "AutoMapper": "14.0.0",
+          "CineTicket.Core": "1.0.0",
+          "CineTicket.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CineTicket.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CineTicket.Application.dll": {}
+        }
+      },
       "CineTicket.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -1753,20 +1768,6 @@
         },
         "runtime": {
           "bin/placeholder/CineTicket.Data.dll": {}
-        }
-      },
-      "CineTicket.Services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "dependencies": {
-          "AutoMapper": "14.0.0",
-          "CineTicket.Core": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CineTicket.Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CineTicket.Services.dll": {}
         }
       }
     }
@@ -4991,6 +4992,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CineTicket.Application/1.0.0": {
+      "type": "project",
+      "path": "../CineTicket.Application/CineTicket.Application.csproj",
+      "msbuildProject": "../CineTicket.Application/CineTicket.Application.csproj"
+    },
     "CineTicket.Core/1.0.0": {
       "type": "project",
       "path": "../CineTicket.Core/CineTicket.Core.csproj",
@@ -5000,18 +5006,13 @@
       "type": "project",
       "path": "../CineTicket.Data/CineTicket.Data.csproj",
       "msbuildProject": "../CineTicket.Data/CineTicket.Data.csproj"
-    },
-    "CineTicket.Services/1.0.0": {
-      "type": "project",
-      "path": "../CineTicket.Services/CineTicket.Services.csproj",
-      "msbuildProject": "../CineTicket.Services/CineTicket.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "CineTicket.Application >= 1.0.0",
       "CineTicket.Core >= 1.0.0",
       "CineTicket.Data >= 1.0.0",
-      "CineTicket.Services >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Proxies >= 9.0.2",
@@ -5044,14 +5045,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Application/CineTicket.Application.csproj": {
+              "projectPath": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Application/CineTicket.Application.csproj"
+            },
             "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Core/CineTicket.Core.csproj": {
               "projectPath": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Core/CineTicket.Core.csproj"
             },
             "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/CineTicket.Data.csproj": {
               "projectPath": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Data/CineTicket.Data.csproj"
-            },
-            "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Services/CineTicket.Services.csproj": {
-              "projectPath": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Services/CineTicket.Services.csproj"
             }
           }
         }

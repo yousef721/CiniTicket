@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TdY+IeqcY8NOBXNLOdCswqX2PKdEZaqFEnhse8i3edc=",
+  "Hash": "8/XToCcGe96uwti6DLJEqD2l9vsruPkrB8Mx5vSyERk=",
   "Source": "CineTicket.Web",
   "BasePath": "_content/CineTicket.Web",
   "Mode": "Default",
@@ -1571,6 +1571,69 @@
       "OriginalItemSpec": "wwwroot/images/logo.png"
     },
     {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/13th.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/13th#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qwhc1c7zpn",
+      "Integrity": "qmajZbTyDUdGKrcdu1fTuIt7Q5lQkfOv59l6LnXp+dk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/13th.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/conjuring.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/conjuring#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yjua9bn3dj",
+      "Integrity": "0mG+rktk4uKClpZFp5jamfmjhNMR+8X4hi9gK5t9mTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/conjuring.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/deadpool2.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/deadpool2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cscv8xeoqb",
+      "Integrity": "hKHuIt0C22GXJVghnfsLQzRPTE34c3GyhP74NuiBaqY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/deadpool2.jpg"
+    },
+    {
       "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/default-movie.jpg",
       "SourceId": "CineTicket.Web",
       "SourceType": "Discovered",
@@ -1590,6 +1653,279 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/movies/default-movie.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/fastx.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/fastx#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tg1zexu9t6",
+      "Integrity": "0/sXZ2AGffjTEZa2kDEf0lIGFfyE6u4TS9kL2rj4lJY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/fastx.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/forrestgump.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/forrestgump#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "og38qcaeqc",
+      "Integrity": "eBIYv9CD/w/L2Lpxh5vjR6BFMAYjqZezNlF5DM7IWug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/forrestgump.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/freesolo.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/freesolo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fzvyoychn1",
+      "Integrity": "lUnUfVEcOLuSSmQTX0QNnahT4HTc2ImP7MwSc/L4b8M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/freesolo.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/frozen2.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/frozen2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o3xlcdvnqp",
+      "Integrity": "LNWZfR1nXQrFw5KuLucX4AxR5B+Lg+XvlgubUiazPqY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/frozen2.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/hangover.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/hangover#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tywe1cd1u",
+      "Integrity": "xxXgdAXUULO7/TkiPrj4UPkeU7mSvPxvsmFfaL/GLDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/hangover.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/insidious.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/insidious#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jnlj64x0vw",
+      "Integrity": "X1ry6V57k89Fc7uCvY1mWgT2h/6f8GHpU/8nC3qWISQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/insidious.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/it2.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/it2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ynn0m7do5u",
+      "Integrity": "MmYakUgIez/73ZeZWK0iKlNzHsVLZwt1pcFETeCwElk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/it2.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/johnwick4.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/johnwick4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7rigk6xtyd",
+      "Integrity": "836wstBMtYYyOsKtXNp/ogGFrf6uBa91c+0CmU2X1Bo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/johnwick4.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/jumanji.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/jumanji#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4qf8hkoqt4",
+      "Integrity": "ZH0YlyGNkMmnwNO0KpYHfD59979OFVLL7eKGdX4c5ns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/jumanji.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/lionking.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/lionking#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "egctgqe3bc",
+      "Integrity": "TjysezbLiFRYyqjRPvGnsAhJPUMI/RQjbIqWAEl37jA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/lionking.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/madmax.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/madmax#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1s0sx9s8n8",
+      "Integrity": "D8hPzZCg9Re3GrbHn26w3DT8+TDcRIBzN2OmXlpMszM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/madmax.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/mi6.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/mi6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3y31u1lrrk",
+      "Integrity": "xaNLNpoeTj7lFJXqfUNwqK+0A8UOn+WhT3TP2GN7yVk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/mi6.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/minions.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/minions#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "abyoaxnusw",
+      "Integrity": "tiFD0DnFbVoei2Goq6K4sXuuojOhKP0fuV+KOGUhM00=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/minions.jpg"
     },
     {
       "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/movie1.png",
@@ -1800,6 +2136,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/movies/movie9.png"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/planetearth2.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/planetearth2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dc547j9yvr",
+      "Integrity": "DZeHSgFMWvNwUZoA6W7e5gUJBKLJC0fpBI/vjhdXMo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/planetearth2.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/pursuit.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/pursuit#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rwsrjifc22",
+      "Integrity": "5cnOSlm4+muwecY1z7ze5H8/gjcnpmxUmRsRoMRP2BM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/pursuit.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/quietplace2.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/quietplace2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vft7nlfolt",
+      "Integrity": "y2ujVsoob1l0FelWZqDo2F9HQPsdbUTCHP8Pzpwsnfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/quietplace2.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/shawshank.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/shawshank#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ai8t0ks0xb",
+      "Integrity": "UmCso5UtJldmvUEWv3BXOLVVdiuEnkxhpWB6FtXOYvQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/shawshank.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/socialdilemma.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/socialdilemma#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gc9b9x1mfy",
+      "Integrity": "8J7yeCNRMVHUSO1+8fY+3kS10GtVpjnRF/ewGw3I3ck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/socialdilemma.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/superbad.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/superbad#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hawqs7k5ri",
+      "Integrity": "B0Jd3niItWG1PIdlU62uXTM0SUvbyT3uXkgU6wuomME=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/superbad.jpg"
+    },
+    {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/toystory4.jpg",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "images/movies/toystory4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qdfhz66opq",
+      "Integrity": "HqOuEhL4yzAkVCW0+JfIG9Me8BupzdQlKxkYG/kZOuk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/movies/toystory4.jpg"
     },
     {
       "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/js/site.js",
@@ -3109,7 +3592,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3162,7 +3645,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3199,7 +3682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3246,7 +3729,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3299,7 +3782,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3336,7 +3819,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3383,7 +3866,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3444,7 +3927,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3489,7 +3972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3544,7 +4027,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3605,7 +4088,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3650,7 +4133,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 03:44:16 GMT"
+          "Value": "Thu, 27 Mar 2025 02:33:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4635,6 +5118,252 @@
       ]
     },
     {
+      "Route": "images/movies/13th.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/13th.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2175705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qmajZbTyDUdGKrcdu1fTuIt7Q5lQkfOv59l6LnXp+dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:53:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qmajZbTyDUdGKrcdu1fTuIt7Q5lQkfOv59l6LnXp+dk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/13th.qwhc1c7zpn.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/13th.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2175705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qmajZbTyDUdGKrcdu1fTuIt7Q5lQkfOv59l6LnXp+dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:53:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qwhc1c7zpn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/13th.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qmajZbTyDUdGKrcdu1fTuIt7Q5lQkfOv59l6LnXp+dk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/conjuring.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/conjuring.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0mG+rktk4uKClpZFp5jamfmjhNMR+8X4hi9gK5t9mTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:35:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0mG+rktk4uKClpZFp5jamfmjhNMR+8X4hi9gK5t9mTk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/conjuring.yjua9bn3dj.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/conjuring.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0mG+rktk4uKClpZFp5jamfmjhNMR+8X4hi9gK5t9mTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:35:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yjua9bn3dj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/conjuring.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0mG+rktk4uKClpZFp5jamfmjhNMR+8X4hi9gK5t9mTk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/deadpool2.cscv8xeoqb.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/deadpool2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "648711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hKHuIt0C22GXJVghnfsLQzRPTE34c3GyhP74NuiBaqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:40:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cscv8xeoqb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/deadpool2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hKHuIt0C22GXJVghnfsLQzRPTE34c3GyhP74NuiBaqY="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/deadpool2.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/deadpool2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "648711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hKHuIt0C22GXJVghnfsLQzRPTE34c3GyhP74NuiBaqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:40:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hKHuIt0C22GXJVghnfsLQzRPTE34c3GyhP74NuiBaqY="
+        }
+      ]
+    },
+    {
       "Route": "images/movies/default-movie.8iraogabf6.jpg",
       "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/default-movie.jpg",
       "Selectors": [],
@@ -4713,6 +5442,1072 @@
         {
           "Name": "integrity",
           "Value": "sha256-wGFz1bgMt4kS7ngYkEVNiCPhhq2OSM8sFcjRRyPY0Hs="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/fastx.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/fastx.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1057175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0/sXZ2AGffjTEZa2kDEf0lIGFfyE6u4TS9kL2rj4lJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:33:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0/sXZ2AGffjTEZa2kDEf0lIGFfyE6u4TS9kL2rj4lJY="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/fastx.tg1zexu9t6.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/fastx.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1057175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0/sXZ2AGffjTEZa2kDEf0lIGFfyE6u4TS9kL2rj4lJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:33:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tg1zexu9t6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/fastx.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0/sXZ2AGffjTEZa2kDEf0lIGFfyE6u4TS9kL2rj4lJY="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/forrestgump.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/forrestgump.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eBIYv9CD/w/L2Lpxh5vjR6BFMAYjqZezNlF5DM7IWug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:43:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eBIYv9CD/w/L2Lpxh5vjR6BFMAYjqZezNlF5DM7IWug="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/forrestgump.og38qcaeqc.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/forrestgump.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eBIYv9CD/w/L2Lpxh5vjR6BFMAYjqZezNlF5DM7IWug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:43:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "og38qcaeqc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/forrestgump.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eBIYv9CD/w/L2Lpxh5vjR6BFMAYjqZezNlF5DM7IWug="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/freesolo.fzvyoychn1.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/freesolo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2673261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lUnUfVEcOLuSSmQTX0QNnahT4HTc2ImP7MwSc/L4b8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:49:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fzvyoychn1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/freesolo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lUnUfVEcOLuSSmQTX0QNnahT4HTc2ImP7MwSc/L4b8M="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/freesolo.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/freesolo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2673261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lUnUfVEcOLuSSmQTX0QNnahT4HTc2ImP7MwSc/L4b8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:49:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lUnUfVEcOLuSSmQTX0QNnahT4HTc2ImP7MwSc/L4b8M="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/frozen2.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/frozen2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LNWZfR1nXQrFw5KuLucX4AxR5B+Lg+XvlgubUiazPqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:38:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LNWZfR1nXQrFw5KuLucX4AxR5B+Lg+XvlgubUiazPqY="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/frozen2.o3xlcdvnqp.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/frozen2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LNWZfR1nXQrFw5KuLucX4AxR5B+Lg+XvlgubUiazPqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:38:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o3xlcdvnqp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/frozen2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LNWZfR1nXQrFw5KuLucX4AxR5B+Lg+XvlgubUiazPqY="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/hangover.5tywe1cd1u.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/hangover.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xxXgdAXUULO7/TkiPrj4UPkeU7mSvPxvsmFfaL/GLDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:40:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tywe1cd1u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/hangover.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xxXgdAXUULO7/TkiPrj4UPkeU7mSvPxvsmFfaL/GLDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/hangover.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/hangover.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xxXgdAXUULO7/TkiPrj4UPkeU7mSvPxvsmFfaL/GLDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:40:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xxXgdAXUULO7/TkiPrj4UPkeU7mSvPxvsmFfaL/GLDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/insidious.jnlj64x0vw.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/insidious.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1ry6V57k89Fc7uCvY1mWgT2h/6f8GHpU/8nC3qWISQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:37:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jnlj64x0vw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/insidious.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1ry6V57k89Fc7uCvY1mWgT2h/6f8GHpU/8nC3qWISQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/insidious.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/insidious.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1ry6V57k89Fc7uCvY1mWgT2h/6f8GHpU/8nC3qWISQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:37:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1ry6V57k89Fc7uCvY1mWgT2h/6f8GHpU/8nC3qWISQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/it2.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/it2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MmYakUgIez/73ZeZWK0iKlNzHsVLZwt1pcFETeCwElk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:36:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MmYakUgIez/73ZeZWK0iKlNzHsVLZwt1pcFETeCwElk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/it2.ynn0m7do5u.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/it2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MmYakUgIez/73ZeZWK0iKlNzHsVLZwt1pcFETeCwElk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:36:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ynn0m7do5u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/it2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MmYakUgIez/73ZeZWK0iKlNzHsVLZwt1pcFETeCwElk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/johnwick4.7rigk6xtyd.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/johnwick4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1179219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"836wstBMtYYyOsKtXNp/ogGFrf6uBa91c+0CmU2X1Bo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:32:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rigk6xtyd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/johnwick4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-836wstBMtYYyOsKtXNp/ogGFrf6uBa91c+0CmU2X1Bo="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/johnwick4.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/johnwick4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1179219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"836wstBMtYYyOsKtXNp/ogGFrf6uBa91c+0CmU2X1Bo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:32:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-836wstBMtYYyOsKtXNp/ogGFrf6uBa91c+0CmU2X1Bo="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/jumanji.4qf8hkoqt4.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/jumanji.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7143675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZH0YlyGNkMmnwNO0KpYHfD59979OFVLL7eKGdX4c5ns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4qf8hkoqt4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/jumanji.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZH0YlyGNkMmnwNO0KpYHfD59979OFVLL7eKGdX4c5ns="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/jumanji.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/jumanji.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7143675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZH0YlyGNkMmnwNO0KpYHfD59979OFVLL7eKGdX4c5ns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZH0YlyGNkMmnwNO0KpYHfD59979OFVLL7eKGdX4c5ns="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/lionking.egctgqe3bc.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/lionking.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1438406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjysezbLiFRYyqjRPvGnsAhJPUMI/RQjbIqWAEl37jA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egctgqe3bc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/lionking.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjysezbLiFRYyqjRPvGnsAhJPUMI/RQjbIqWAEl37jA="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/lionking.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/lionking.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1438406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjysezbLiFRYyqjRPvGnsAhJPUMI/RQjbIqWAEl37jA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjysezbLiFRYyqjRPvGnsAhJPUMI/RQjbIqWAEl37jA="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/madmax.1s0sx9s8n8.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/madmax.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D8hPzZCg9Re3GrbHn26w3DT8+TDcRIBzN2OmXlpMszM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:33:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1s0sx9s8n8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/madmax.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D8hPzZCg9Re3GrbHn26w3DT8+TDcRIBzN2OmXlpMszM="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/madmax.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/madmax.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D8hPzZCg9Re3GrbHn26w3DT8+TDcRIBzN2OmXlpMszM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:33:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D8hPzZCg9Re3GrbHn26w3DT8+TDcRIBzN2OmXlpMszM="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/mi6.3y31u1lrrk.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/mi6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xaNLNpoeTj7lFJXqfUNwqK+0A8UOn+WhT3TP2GN7yVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:34:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3y31u1lrrk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/mi6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xaNLNpoeTj7lFJXqfUNwqK+0A8UOn+WhT3TP2GN7yVk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/mi6.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/mi6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xaNLNpoeTj7lFJXqfUNwqK+0A8UOn+WhT3TP2GN7yVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:34:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xaNLNpoeTj7lFJXqfUNwqK+0A8UOn+WhT3TP2GN7yVk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/minions.abyoaxnusw.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/minions.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tiFD0DnFbVoei2Goq6K4sXuuojOhKP0fuV+KOGUhM00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "abyoaxnusw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/minions.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tiFD0DnFbVoei2Goq6K4sXuuojOhKP0fuV+KOGUhM00="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/minions.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/minions.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tiFD0DnFbVoei2Goq6K4sXuuojOhKP0fuV+KOGUhM00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tiFD0DnFbVoei2Goq6K4sXuuojOhKP0fuV+KOGUhM00="
         }
       ]
     },
@@ -5533,6 +7328,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-NQrud3s8ixXYhMB3RHG3N7dwa3XkoCYRi7xM8F+/xSU="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/planetearth2.dc547j9yvr.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/planetearth2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZeHSgFMWvNwUZoA6W7e5gUJBKLJC0fpBI/vjhdXMo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:42:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dc547j9yvr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/planetearth2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZeHSgFMWvNwUZoA6W7e5gUJBKLJC0fpBI/vjhdXMo0="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/planetearth2.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/planetearth2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZeHSgFMWvNwUZoA6W7e5gUJBKLJC0fpBI/vjhdXMo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:42:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZeHSgFMWvNwUZoA6W7e5gUJBKLJC0fpBI/vjhdXMo0="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/pursuit.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/pursuit.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cnOSlm4+muwecY1z7ze5H8/gjcnpmxUmRsRoMRP2BM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:43:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cnOSlm4+muwecY1z7ze5H8/gjcnpmxUmRsRoMRP2BM="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/pursuit.rwsrjifc22.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/pursuit.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cnOSlm4+muwecY1z7ze5H8/gjcnpmxUmRsRoMRP2BM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:43:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwsrjifc22"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/pursuit.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cnOSlm4+muwecY1z7ze5H8/gjcnpmxUmRsRoMRP2BM="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/quietplace2.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/quietplace2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y2ujVsoob1l0FelWZqDo2F9HQPsdbUTCHP8Pzpwsnfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y2ujVsoob1l0FelWZqDo2F9HQPsdbUTCHP8Pzpwsnfw="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/quietplace2.vft7nlfolt.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/quietplace2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y2ujVsoob1l0FelWZqDo2F9HQPsdbUTCHP8Pzpwsnfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vft7nlfolt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/quietplace2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y2ujVsoob1l0FelWZqDo2F9HQPsdbUTCHP8Pzpwsnfw="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/shawshank.ai8t0ks0xb.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/shawshank.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UmCso5UtJldmvUEWv3BXOLVVdiuEnkxhpWB6FtXOYvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:43:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ai8t0ks0xb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/shawshank.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UmCso5UtJldmvUEWv3BXOLVVdiuEnkxhpWB6FtXOYvQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/shawshank.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/shawshank.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UmCso5UtJldmvUEWv3BXOLVVdiuEnkxhpWB6FtXOYvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:43:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UmCso5UtJldmvUEWv3BXOLVVdiuEnkxhpWB6FtXOYvQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/socialdilemma.gc9b9x1mfy.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/socialdilemma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "400621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8J7yeCNRMVHUSO1+8fY+3kS10GtVpjnRF/ewGw3I3ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:41:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gc9b9x1mfy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/socialdilemma.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8J7yeCNRMVHUSO1+8fY+3kS10GtVpjnRF/ewGw3I3ck="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/socialdilemma.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/socialdilemma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "400621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8J7yeCNRMVHUSO1+8fY+3kS10GtVpjnRF/ewGw3I3ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:41:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8J7yeCNRMVHUSO1+8fY+3kS10GtVpjnRF/ewGw3I3ck="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/superbad.hawqs7k5ri.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/superbad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B0Jd3niItWG1PIdlU62uXTM0SUvbyT3uXkgU6wuomME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hawqs7k5ri"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/superbad.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B0Jd3niItWG1PIdlU62uXTM0SUvbyT3uXkgU6wuomME="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/superbad.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/superbad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B0Jd3niItWG1PIdlU62uXTM0SUvbyT3uXkgU6wuomME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B0Jd3niItWG1PIdlU62uXTM0SUvbyT3uXkgU6wuomME="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/toystory4.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/toystory4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqOuEhL4yzAkVCW0+JfIG9Me8BupzdQlKxkYG/kZOuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqOuEhL4yzAkVCW0+JfIG9Me8BupzdQlKxkYG/kZOuk="
+        }
+      ]
+    },
+    {
+      "Route": "images/movies/toystory4.qdfhz66opq.jpg",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/toystory4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqOuEhL4yzAkVCW0+JfIG9Me8BupzdQlKxkYG/kZOuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 01:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qdfhz66opq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/movies/toystory4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqOuEhL4yzAkVCW0+JfIG9Me8BupzdQlKxkYG/kZOuk="
         }
       ]
     },

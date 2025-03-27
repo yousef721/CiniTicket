@@ -3,7 +3,7 @@ using CineTicket.Core.Enums;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace CineTicket.Data.Data.configurations;
+namespace CineTicket.Data.Data.Configurations;
 
 public class RequestCinemaConfig : IEntityTypeConfiguration<RequestCinema> 
 {

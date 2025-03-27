@@ -1,5 +1,5 @@
 using System.Linq.Expressions;
-using CineTicket.Core.Interfaces.ReposInterfaces;
+using CineTicket.Core.Interfaces.Repositories;
 using CineTicket.Data.Data;
 using Microsoft.EntityFrameworkCore;
 

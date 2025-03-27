@@ -1,7 +1,7 @@
-using CineTicket.Core.Interfaces;
-using CineTicket.Core.Interfaces.ReposInterfaces;
+using CineTicket.Core.Interfaces.UnitOfWork;
 using CineTicket.Data.Data;
-using CineTicket.Data.Repositories.Implementations;
+using CineTicket.Core.Interfaces.Repositories.SpecificRepositories;
+using CineTicket.Data.Repositories.SpecificRepositories;
 
 namespace CineTicket.Data.UnitOfWork;
 

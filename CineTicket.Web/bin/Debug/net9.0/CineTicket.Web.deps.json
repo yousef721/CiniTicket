@@ -37,9 +37,9 @@
     ".NETCoreApp,Version=v9.0": {
       "CineTicket.Web/1.0.0": {
         "dependencies": {
+          "CineTicket.Application": "1.0.0",
           "CineTicket.Core": "1.0.0",
           "CineTicket.Data": "1.0.0",
-          "CineTicket.Services": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "9.0.2",
           "Microsoft.EntityFrameworkCore.Design": "9.0.2",
           "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
@@ -1546,6 +1546,22 @@
           }
         }
       },
+      "CineTicket.Application/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "14.0.0",
+          "CineTicket.Core": "1.0.0",
+          "CineTicket.Data": "1.0.0"
+        },
+        "runtime": {
+          "CineTicket.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "CineTicket.Application.dll": {}
+        }
+      },
       "CineTicket.Core/1.0.0": {
         "runtime": {
           "CineTicket.Core.dll": {
@@ -1571,21 +1587,6 @@
         },
         "compile": {
           "CineTicket.Data.dll": {}
-        }
-      },
-      "CineTicket.Services/1.0.0": {
-        "dependencies": {
-          "AutoMapper": "14.0.0",
-          "CineTicket.Core": "1.0.0"
-        },
-        "runtime": {
-          "CineTicket.Services.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        },
-        "compile": {
-          "CineTicket.Services.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/9.0.0.0": {
@@ -3950,17 +3951,17 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
+    "CineTicket.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CineTicket.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CineTicket.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CineTicket.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

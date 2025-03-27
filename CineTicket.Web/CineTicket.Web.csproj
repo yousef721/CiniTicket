@@ -19,7 +19,12 @@
   <ItemGroup>
     <ProjectReference Include="../CineTicket.Core/CineTicket.Core.csproj" />
     <ProjectReference Include="../CineTicket.Data/CineTicket.Data.csproj" />
-    <ProjectReference Include="../CineTicket.Services/CineTicket.Services.csproj" />
+    <ProjectReference Include="../CineTicket.Application/CineTicket.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas/Admin/Controllers/" />
+    <Folder Include="Areas/Cinema/Controllers/" />
   </ItemGroup>
 
 </Project>

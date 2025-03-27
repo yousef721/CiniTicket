@@ -2,7 +2,7 @@ using CineTicket.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace CineTicket.Data.Data.configurations;
+namespace CineTicket.Data.Data.Configurations;
 
 public class MovieActorConfig : IEntityTypeConfiguration<MovieActor>
 {

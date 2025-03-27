@@ -364,8 +364,8 @@ namespace CineTicket.Data.Migrations
                     b.Property<int>("CinemaId")
                         .HasColumnType("int");
 
-                    b.Property<TimeSpan>("Duration")
-                        .HasColumnType("time");
+                    b.Property<int>("Duration")
+                        .HasColumnType("int");
 
                     b.Property<int>("HallId")
                         .HasColumnType("int");
@@ -389,7 +389,7 @@ namespace CineTicket.Data.Migrations
 
                     b.ToTable("ScheduleCinemas", null, t =>
                         {
-                            t.HasCheckConstraint("CK_ScheduleCinema_Duration", "DATEDIFF(SECOND, '00:00:00', [Duration]) > 0");
+                            t.HasCheckConstraint("CK_ScheduleCinema_Duration", "[Duration] > 0");
                         });
                 });
 

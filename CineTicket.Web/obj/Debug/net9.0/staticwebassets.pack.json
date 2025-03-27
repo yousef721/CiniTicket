@@ -41,8 +41,72 @@
       "PackagePath": "staticwebassets/images/logo.png"
     },
     {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/13th.jpg",
+      "PackagePath": "staticwebassets/images/movies/13th.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/conjuring.jpg",
+      "PackagePath": "staticwebassets/images/movies/conjuring.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/deadpool2.jpg",
+      "PackagePath": "staticwebassets/images/movies/deadpool2.jpg"
+    },
+    {
       "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/default-movie.jpg",
       "PackagePath": "staticwebassets/images/movies/default-movie.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/fastx.jpg",
+      "PackagePath": "staticwebassets/images/movies/fastx.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/forrestgump.jpg",
+      "PackagePath": "staticwebassets/images/movies/forrestgump.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/freesolo.jpg",
+      "PackagePath": "staticwebassets/images/movies/freesolo.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/frozen2.jpg",
+      "PackagePath": "staticwebassets/images/movies/frozen2.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/hangover.jpg",
+      "PackagePath": "staticwebassets/images/movies/hangover.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/insidious.jpg",
+      "PackagePath": "staticwebassets/images/movies/insidious.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/it2.jpg",
+      "PackagePath": "staticwebassets/images/movies/it2.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/johnwick4.jpg",
+      "PackagePath": "staticwebassets/images/movies/johnwick4.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/jumanji.jpg",
+      "PackagePath": "staticwebassets/images/movies/jumanji.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/lionking.jpg",
+      "PackagePath": "staticwebassets/images/movies/lionking.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/madmax.jpg",
+      "PackagePath": "staticwebassets/images/movies/madmax.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/mi6.jpg",
+      "PackagePath": "staticwebassets/images/movies/mi6.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/minions.jpg",
+      "PackagePath": "staticwebassets/images/movies/minions.jpg"
     },
     {
       "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/movie1.png",
@@ -83,6 +147,34 @@
     {
       "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/movie9.png",
       "PackagePath": "staticwebassets/images/movies/movie9.png"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/planetearth2.jpg",
+      "PackagePath": "staticwebassets/images/movies/planetearth2.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/pursuit.jpg",
+      "PackagePath": "staticwebassets/images/movies/pursuit.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/quietplace2.jpg",
+      "PackagePath": "staticwebassets/images/movies/quietplace2.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/shawshank.jpg",
+      "PackagePath": "staticwebassets/images/movies/shawshank.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/socialdilemma.jpg",
+      "PackagePath": "staticwebassets/images/movies/socialdilemma.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/superbad.jpg",
+      "PackagePath": "staticwebassets/images/movies/superbad.jpg"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/toystory4.jpg",
+      "PackagePath": "staticwebassets/images/movies/toystory4.jpg"
     },
     {
       "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/js/site.js",

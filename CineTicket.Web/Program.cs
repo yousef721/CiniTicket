@@ -1,7 +1,5 @@
-using CineTicket.Core.Interfaces;
+using CineTicket.Application.Extensions;
 using CineTicket.Data.Data;
-using CineTicket.Data.UnitOfWork;
-using CineTicket.Services.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,8 +14,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped<IServices, Services>();
+// Dependency injection Repositories And Services
+builder.Services.AddApplicationServices();
 
 
 var app = builder.Build();
@@ -40,7 +38,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
+    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
 

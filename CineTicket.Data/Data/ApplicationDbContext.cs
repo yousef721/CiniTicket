@@ -1,4 +1,4 @@
-using CineTicket.Data.Data.configurations;
+using CineTicket.Data.Data.Configurations;
 using Microsoft.EntityFrameworkCore;
 
 namespace CineTicket.Data.Data;
