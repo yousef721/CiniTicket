@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace CineTicket.Web.Areas.Identity.ViewModels;
+namespace CineTicket.Application.ViewModels.IdentityViewModels;
 
 public class RegisterVM
 {
