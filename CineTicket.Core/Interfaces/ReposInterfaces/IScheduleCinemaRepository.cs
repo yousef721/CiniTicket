@@ -1,8 +1,0 @@
-using CineTicket.Core.Entities;
-
-namespace CineTicket.Core.Interfaces.ReposInterfaces;
-
-public interface IScheduleCinemaRepository : IRepository<ScheduleCinema>
-{
-
-}

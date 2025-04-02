@@ -1,0 +1,14 @@
+﻿@model List<Movie>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<partial name="_MovieCard" model="Model"/>
+
+@section Scripts {
+    @if (TempData["WarningMessage"] != null)
+    {
+        <script>
+            toastr.warning('@TempData["WarningMessage"]');
+        </script>
+    }
+}
