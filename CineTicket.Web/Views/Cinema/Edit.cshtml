@@ -1,0 +1,18 @@
+﻿@model Cinema
+
+<div>
+    <h1 class="mb-4">Edit Cinema</h1>
+
+    <form asp-action="Edit" method="post" class="needs-validation" novalidate>
+        <!-- Hidden input for Cinema ID -->
+        <input asp-for="Id" type="hidden" />
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control" required />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
+

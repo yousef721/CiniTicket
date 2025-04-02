@@ -1,0 +1,6 @@
+﻿@model IEnumerable<Cinema>
+    
+@foreach (var cinema in Model)
+{
+    <partial name="_MovieCard" model="cinema.Movies"/>
+}

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Movie>
+
+@{
+    ViewData["Title"] = "Movies Index";
+}
+
+<div>
+    <h1>Movies</h1>
+    <a asp-action="Create" class="btn btn-success mb-3">Create New Movie</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th><span asp-for="Title"></span>Movies Name</th>
+                <th><span asp-for="Price"></span>Price</th>
+                <th><span asp-for="Cinema.Name"></span>Cinema Name</th>
+                <th><span asp-for="Category.Name"></span>Category Name</th>
+                <th><span asp-for="MovieStatus"></span>Movies Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><span>@item.Title</span></td>
+                    <td><span>@item.Price</span></td>
+                    <td><span>@item.Cinema.Name</span></td>
+                    <td><span>@item.Category.Name</span></td>
+                    <td><span>@item.MovieStatus</span></td>
+                    <td>
+                        <a asp-action="Details" asp-route-movieId="@item.Id" class="btn btn-info btn-md">Details</a>
+                        <a asp-action="Edit" asp-route-movieId="@item.Id" class="btn btn-warning btn-md">Edit</a>
+                        <a asp-action="Delete" asp-route-movieId="@item.Id" class="btn btn-danger btn-md">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
