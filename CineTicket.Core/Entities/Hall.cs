@@ -5,6 +5,8 @@ public class Hall
     public string Name { get; set; } = null!; // Example: "IMAX 1", "Hall A"
     public short TotalRows { get; set; }
     public short TotalSeatsPerRow { get; set; }
+
+    // Relationships
     public int CinemaId { get; set; }
     public virtual Cinema Cinema { get; set; } = null!;
     public virtual List<Seat> Seats { get; set; } = [];

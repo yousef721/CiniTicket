@@ -13,6 +13,8 @@ public class Movie
     public DateTime StartDate { get; set;}
     public DateTime EndDate { get; set; } = DateTime.Now.AddDays(90);
     public string MovieVideo { get; set;} = null!;
+    
+    // Relationships
     public int CategoryId { get; set; }
     public virtual Category Category { get; set; } = null!;
     public int CinemaId { get; set; }

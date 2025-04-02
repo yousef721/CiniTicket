@@ -7,6 +7,8 @@ public class Actor
     public string Bio { get; set;} = null!;
     public string ProfilePicture { get; set;} = null!;
     public string News { get; set;} = null!;
+
+    // Relationships
     public virtual List<MovieActor> MovieActors { get; set; } = [];
 
     // Ignore computed property

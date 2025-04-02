@@ -9,10 +9,9 @@ public class ApplicationUserConfig : IEntityTypeConfiguration<ApplicationUser>
     public void Configure(EntityTypeBuilder<ApplicationUser> builder)
     {
         builder.ToTable("ApplicationUsers");
-        builder.HasKey(a => a.Id);
         builder.Property(a => a.FirstName).HasMaxLength(50).IsRequired();
         builder.Property(a => a.LastName).HasMaxLength(50).IsRequired();
-        builder.Property(a => a.DateOfBirth).HasColumnType("date").IsRequired(false);
+        builder.Property(a => a.DateOfBirth).HasColumnType("date");
         builder.Property(a => a.ProfilePicture).HasMaxLength(255).HasDefaultValue("default-profile-picture.jpg").IsRequired(false);
         builder.Property(a => a.Country).HasMaxLength(50).IsRequired(false);
         builder.Property(a => a.State).HasMaxLength(50).IsRequired(false);
@@ -21,7 +20,9 @@ public class ApplicationUserConfig : IEntityTypeConfiguration<ApplicationUser>
         builder.Property(a => a.IsActive).HasDefaultValue(true);
         builder.Property(a => a.LastLoginDate).HasDefaultValueSql("GETDATE()");
         builder.Property(a => a.CreatedAt).HasDefaultValueSql("GETDATE()");
-
+        
+        // Ignore computed properties
+        builder.Ignore(a => a.FullName);
     }
 
 }

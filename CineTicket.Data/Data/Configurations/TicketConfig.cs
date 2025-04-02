@@ -13,11 +13,13 @@ public class TicketConfig : IEntityTypeConfiguration<Ticket>
         
         builder.Property(t => t.AmountPaid).HasColumnType("money").IsRequired();
         builder.Property(t => t.PurchaseDate).HasDefaultValueSql("GETDATE()");
+        builder.Property(t => t.SeatNumber).HasMaxLength(20).IsRequired();
 
         // Unique constraint {To prevent duplicate seats for the same screening}
         builder.HasIndex(t => new { t.ScheduleCinemaId, t.SeatNumber }).IsUnique();
 
         // Relationships
-        builder.HasOne(t => t.ScheduleCinema).WithMany().HasForeignKey(t => t.ScheduleCinemaId).HasConstraintName("FK_Ticket_ScheduleCinemaId").OnDelete(DeleteBehavior.Cascade);
+        builder.HasOne(t => t.ScheduleCinema).WithMany(sc => sc.Tickets).HasForeignKey(t => t.ScheduleCinemaId).HasConstraintName("FK_Ticket_ScheduleCinemaId").OnDelete(DeleteBehavior.Cascade);
+        builder.HasOne(t => t.ApplicationUser).WithMany(a => a.Tickets).HasForeignKey(t => t.ApplicationUserId).HasConstraintName("FK_Ticket_ApplicationUserId").OnDelete(DeleteBehavior.Cascade);
     }
 }

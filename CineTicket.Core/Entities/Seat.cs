@@ -5,6 +5,8 @@ public class Seat
     public short Row { get; set; } 
     public short SeatNumber { get; set; } 
     public bool IsBooked { get; set; } = false; // Default: available
+
+    // Relationships
     public int HallId { get; set; }
     public virtual Hall Hall { get; set; } = null!;
 

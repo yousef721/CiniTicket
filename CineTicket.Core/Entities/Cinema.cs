@@ -13,6 +13,8 @@ public class Cinema
     public DateTime ApprovedTime { get; set; } = DateTime.Now;
     public string CinemaLogo { get; set;} = "default-logo-cinema.jpg";
     public string Website { get; set;} = null!;
+
+    // Relationships
     public virtual List<ScheduleCinema> ScheduleCinemas { get; set; } = [];
     public virtual List<Hall> Halls { get; set; } = [];
     public virtual List<Movie> Movies { get; set;} = [];

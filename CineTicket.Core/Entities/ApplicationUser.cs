@@ -15,6 +15,8 @@ public class ApplicationUser : IdentityUser
     public bool IsActive { get; set; } = true;
     public DateTime LastLoginDate { get; set; }
     public DateTime CreatedAt { get; set; } = DateTime.Now;
+
+    // Relationships
     public virtual ICollection<Ticket> Tickets { get; set; } = [];
     
     // Ignore computed properties

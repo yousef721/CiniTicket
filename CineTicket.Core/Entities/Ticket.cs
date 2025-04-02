@@ -5,7 +5,9 @@ public class Ticket
     public decimal AmountPaid { get; set; }
     public DateTime PurchaseDate { get; set; } = DateTime.Now;
     public string SeatNumber { get; set; } = null!;
-    public int ApplicationUserId { get; set; }
+
+    // Relationships
+    public string ApplicationUserId { get; set; } = null!;
     public virtual ApplicationUser ApplicationUser { get; set; } = null!;
     public int ScheduleCinemaId { get; set; }
     public virtual ScheduleCinema ScheduleCinema { get; set; } = null!;

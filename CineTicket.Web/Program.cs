@@ -1,6 +1,8 @@
 using CineTicket.Application.Extensions;
 using CineTicket.Data.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using CineTicket.Core.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +14,6 @@ builder.Services.AddControllersWithViews();
 // Configure database context with lazy loading proxies
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
 
 // Dependency Injection
 builder.Services.AddApplicationServices();
