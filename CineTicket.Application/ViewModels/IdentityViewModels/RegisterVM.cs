@@ -5,10 +5,14 @@ namespace CineTicket.Application.ViewModels.IdentityViewModels;
 public class RegisterVM
 {
     [Required(ErrorMessage = "First Name is required")]
+    [StringLength(50, ErrorMessage = "First name cannot exceed 50 characters")]
+    [RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "First name can only contain letters")]
     [Display(Name = "First Name")]
     public string FirstName { get; set; } = null!;
 
     [Required(ErrorMessage = "Last Name is required")]
+    [StringLength(50, ErrorMessage = "Last name cannot exceed 50 characters")]
+    [RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "Last name can only contain letters")]
     [Display(Name = "Last Name")]
     public string LastName { get; set; } = null!;
 

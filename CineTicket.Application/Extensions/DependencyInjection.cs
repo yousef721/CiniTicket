@@ -14,7 +14,7 @@ public static class DependencyInjection
 
         // Register Services
         services.AddScoped<IMovieServices, MovieServices>();
-
+        services.AddScoped<IIdentityServices, IdentityServices>();
         return services;
     }
 }
