@@ -1,5 +1,6 @@
 using CineTicket.Core.Interfaces.UnitOfWork;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace CineTicket.Web.Controllers;
 

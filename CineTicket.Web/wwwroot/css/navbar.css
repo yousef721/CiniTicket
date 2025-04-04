@@ -1,0 +1,104 @@
+.navbar {
+  background: linear-gradient(135deg, var(--darker-bg) 0%, var(--dark-bg) 100%);
+  padding: 1rem 0;
+  box-shadow: 0 2px 15px var(--shadow-color);
+  border-bottom: 2px solid var(--primary-color);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-brand-img {
+  width: 40px;
+  height: 40px;
+  margin-right: 0.8rem;
+  transition: transform 0.3s var(--transition-timing);
+  will-change: transform;
+}
+
+.navbar-brand-img:hover {
+  transform: scale(1.1) rotate(5deg);
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  letter-spacing: 0.5px;
+  transition: color 0.3s var(--transition-timing);
+}
+
+.navbar-brand:hover {
+  color: var(--primary-hover);
+}
+
+.nav-link {
+  color: var(--text-color);
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  margin: 0 0.2rem;
+  border-radius: 6px;
+  transition: all 0.3s var(--transition-timing);
+  position: relative;
+}
+
+.nav-link:hover {
+  color: var(--primary-color);
+  background: rgba(255, 193, 7, 0.1);
+  transform: translateY(-2px);
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background: var(--primary-color);
+  transition: all 0.3s var(--transition-timing);
+  transform: translateX(-50%);
+}
+
+.nav-link:hover::after {
+  width: 80%;
+}
+
+.dropdown-menu {
+    background: var(--darker-bg);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 5px 15px var(--shadow-color);
+  padding: 0.5rem;
+  border-radius: 8px;
+  margin-top: 0.5rem;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.dropdown-item {
+  color: var(--text-color);
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  transition: all 0.3s var(--transition-timing);
+  position: relative;
+}
+
+.dropdown-item:hover {
+  color: var(--primary-color);
+  background: rgba(255, 193, 7, 0.1);
+  transform: translateX(5px);
+}
+
+@media (max-width: 991.98px) {
+  .navbar-nav {
+    margin: 1rem 0;
+  }
+
+  .nav-link {
+    padding: 0.8rem 1rem;
+  }
+
+  .dropdown-menu {
+    background: var(--darker-bg);
+  }
+}

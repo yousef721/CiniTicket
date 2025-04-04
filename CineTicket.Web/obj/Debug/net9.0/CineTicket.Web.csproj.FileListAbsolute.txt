@@ -300,6 +300,9 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Azure.Identity.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Castle.Core.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Humanizer.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
@@ -325,6 +328,8 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
@@ -451,11 +456,8 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/CineTicket.Web.RazorAssemblyInfo.cache
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/CineTicket.Web.RazorAssemblyInfo.cs
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/CineTicket.Web.sourcelink.json
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/scopedcss/bundle/CineTicket.Web.styles.css
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/scopedcss/projectbundle/CineTicket.Web.bundle.scp.css
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-b9sayid5wm.gz
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/cg7rf1an3g-96oyk68h94.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/cg7rf1an3g-7q3kl8m3la.gz
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0myiqetd9a-bqjiyaj88i.gz
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/4p5v04b0vm-c2jlpeoesf.gz
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/o9dx7wqdsn-erw9l3u2r3.gz
@@ -515,8 +517,6 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/g1z2vpa4vj-muycvpuwrr.gz
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/pscfls34my-87fc7y1x7t.gz
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/lj0kn90zc6-mlv21k5csn.gz
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/t5b8dloeb5-vtni9mhka2.gz
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/d5zwvknbql-vtni9mhka2.gz
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/staticwebassets.build.json
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/staticwebassets.development.json
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -532,8 +532,8 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/CineTicket.Web.pdb
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/CineTicket.Web.genruntimeconfig.cache
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/ref/CineTicket.Web.dll
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-ft5323e0df.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-kxuugwzx2u.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-psn6x94xta.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-dgr8pnqbke.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-esvz7dz9ct.gz

@@ -1,31 +1,56 @@
 @model List<Movie>
 
-<div class="row g-3">
+<div class="row g-4">
     @foreach (var movie in Model)
     {
-        <div class="col-12 col-lg-6"> 
-            <div class="card h-100 d-flex flex-column">
-                <div class="card-header d-flex justify-content-between align-items-center">
-                    <h5 class="card-title">@movie.Title</h5>
-                    <span class="text-muted">Rating @movie.Rating</span>
-                </div>
-                <div class="d-flex flex-row"> 
-                    <div style="width: 250px; height: 350px; overflow: hidden;">
-                        <img src="~/images/movies/@movie.ImgUrl" 
-                            alt="Image" 
-                            class="img-fluid" 
-                            style="width: 100%; height: 100%; object-fit: cover;">
+        <div class="col-12 col-md-6 col-lg-4">
+            <div class="card h-100 bg-black text-light border-0 movie-card">
+                <div class="position-relative movie-img-container">
+                    <img src="~/images/movies/@movie.ImgUrl" 
+                        alt="@movie.Title" 
+                        class="card-img-top movie-img"
+                        loading="lazy">
+                    <div class="movie-rating">
+                        <i class="bi bi-star-fill"></i>
+                        <span>@movie.Rating.ToString("0.0")</span>
                     </div>
-                    <div class="card-body d-flex flex-column justify-content-around">
-                        <p>Price: <span class="text-primary">EGP @movie.Price</span></p>
-                        <p>Cinema: @movie.Cinema.Name</p>
-                        <p>Start-Date: @movie.StartDate</p>
-                        <p>End-Date: @movie.EndDate</p>
-                        <p>Category: @movie.Category.Name</p>
-                        <p class="status w-25">@movie.MovieStatus</p>
-                        <div class="d-flex justify-content-around">
-                            <a href="/Movie/Details?MovieId=@movie.Id" class="btn btn-outline-primary">More Details</a>
-                            <partial name="_BookTicketButton" model="@movie" />
+                    <div class="overlay">
+                        <div class="movie-info">
+                            <h5 class="card-title text-warning fw-bold mb-3 text-truncate">@movie.Title</h5>
+                            @* <div class="movie-rating-detail">
+                                <i class="bi bi-star-fill"></i>
+                                <span>@movie.Rating.ToString("0.0")</span>
+                            </div> *@
+                            <div class="movie-details mb-4">
+                                <p class="mb-2 text-truncate"><i class="bi bi-tag-fill text-warning"></i> <span class="text-light">@movie.Category.Name</span></p>
+                                <p class="mb-2 text-truncate"><i class="bi bi-camera-reels-fill text-warning"></i> <span class="text-light">@movie.Cinema.Name</span></p>
+                                <p class="mb-2"><i class="bi bi-calendar-event text-warning"></i> <span class="text-light">@movie.StartDate.ToString("MMM dd, yyyy")</span></p>
+                                <div class="movie-description">
+                                    <p class="text-light small text-truncate">@(movie.Description?.Length > 150 ? movie.Description[..150] + "..." : movie.Description)</p>
+                                </div>
+                                <div class="movie-actors mt-2">
+                                    <p class="text-warning small mb-1">Starring:</p>
+                                    <div class="d-flex flex-wrap gap-1">
+                                        @foreach (var actor in movie.MovieActors?.Take(3) ?? Enumerable.Empty<MovieActor>())
+                                        {
+                                            <span class="badge bg-warning text-dark">@actor.Actor.FullName</span>
+                                        }
+                                        @if ((movie.MovieActors?.Count ?? 0) > 3)
+                                        {
+                                            <span class="badge bg-secondary">+@(movie.MovieActors!.Count - 3) more</span>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span class="h4 mb-0 text-warning fw-bold">EGP @movie.Price.ToString("0.00")</span>
+                                <div class="btn-group">
+                                    <a href="@Url.Action("Details", "Movie", new { MovieId = movie.Id })" class="btn btn-outline-warning btn-sm movie-btn">
+                                        <i class="bi bi-info-circle"></i> Details
+                                    </a>
+                                    <partial name="_BookTicketButton" model="@movie" />
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -33,3 +58,4 @@
         </div>
     }
 </div>
+

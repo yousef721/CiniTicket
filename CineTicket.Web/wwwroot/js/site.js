@@ -1,10 +1,13 @@
-﻿// Movies Statuses
-document.querySelectorAll('.status').forEach(function(status) {
-    if (status.innerText == "Available") {
-        status.classList.add("text-success");
-    } else if (status.innerText == "Expired") {
-        status.classList.add("text-danger");
+﻿// Scroll to top functionality
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 300) {
+        $('.scroll-to-top').addClass('visible');
     } else {
-        status.classList.add("text-warning");
+        $('.scroll-to-top').removeClass('visible');
     }
+});
+
+$('.scroll-to-top').click(function() {
+    $('html, body').animate({scrollTop: 0}, 800);
+    return false;
 });

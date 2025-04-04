@@ -68,7 +68,7 @@ namespace CineTicket.Web.Areas.Identity.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = await _userManager.FindByNameAsync(loginVM.Account) ?? await _userManager.FindByNameAsync(loginVM.Account);
+                var user = await _userManager.FindByNameAsync(loginVM.Account) ?? await _userManager.FindByEmailAsync(loginVM.Account);
 
                 if (user != null)
                 {

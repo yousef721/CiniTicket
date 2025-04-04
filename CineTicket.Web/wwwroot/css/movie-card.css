@@ -1,0 +1,189 @@
+.movie-card {
+  transition: box-shadow 0.5s var(--transition-timing);
+  border-radius: var(--card-border-radius);
+  box-shadow: 0 10px 20px var(--shadow-color-heavy);
+  will-change: box-shadow;
+  overflow: hidden;
+  position: relative;
+}
+
+.movie-card:hover {
+  box-shadow: 0 15px 30px var(--hover-shadow-color);
+}
+
+.movie-img-container {
+  height: min(450px, 60vh);
+  position: relative;
+  border-radius: var(--card-border-radius);
+  overflow: hidden;
+  background-color: var(--dark-bg);
+}
+
+.movie-img {
+  height: 100%;
+  transition: filter 1s var(--transition-timing);
+  will-change: filter;
+}
+
+.movie-card:hover .movie-img {
+  filter: blur(5px) brightness(0.6);
+}
+
+.movie-rating {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background-color: var(--dark-bg);
+  color: var(--primary-color);
+  padding: 5px 10px;
+  border-radius: var(--card-border-radius);
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  z-index: 10;
+  box-shadow: 0 2px 5px var(--shadow-color);
+  transition: opacity 0.5s var(--transition-timing),
+    visibility 0.5s var(--transition-timing);
+  transform-origin: top right;
+}
+
+.movie-card:hover .movie-rating {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--overlay-gradient);
+  padding: 20px;
+  height: 0;
+  opacity: 0;
+  transition: height 0.6s var(--transition-timing),
+    opacity 0.6s var(--transition-timing);
+  will-change: height, opacity;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: 5;
+}
+
+.movie-card:hover .overlay {
+  height: 100%;
+  opacity: 1;
+}
+
+.movie-info {
+  opacity: 0;
+  transition: opacity 0.5s var(--transition-timing) 0.2s;
+  will-change: opacity;
+}
+
+.movie-card:hover .movie-info {
+  opacity: 1;
+}
+
+.movie-rating-detail {
+  background-color: var(--hover-shadow-color);
+  color: var(--primary-color);
+  padding: 5px 10px;
+  border-radius: var(--card-border-radius);
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 5px var(--shadow-color);
+  opacity: 0;
+  transition: opacity 0.5s var(--transition-timing) 0.1s;
+}
+
+.movie-card:hover .movie-rating-detail {
+  opacity: 1;
+}
+
+.movie-details p {
+  font-size: clamp(0.8rem, 2vw, 0.9rem);
+  margin: 8px 0;
+  line-height: 1.4;
+  transition: color 0.3s ease;
+}
+
+.movie-description {
+  margin: 10px 0;
+  padding: 8px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: var(--card-border-radius);
+  border-left: 3px solid var(--primary-color);
+  max-height: none;
+  overflow-y: visible;
+  transition: background-color 0.5s var(--transition-timing),
+    border-left-width 0.5s var(--transition-timing);
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.movie-description p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.movie-card:hover .movie-description {
+  background-color: var(--dark-bg);
+  border-left-width: 5px;
+}
+
+.movie-actors {
+  margin-top: 10px;
+  transition: color 0.3s ease;
+}
+
+.badge {
+  padding: 5px 10px;
+  border-radius: var(--card-border-radius);
+  font-weight: 500;
+  transition: box-shadow 0.4s var(--transition-timing);
+  transform-origin: center;
+}
+
+.badge:hover {
+  box-shadow: 0 5px 15px var(--shadow-color);
+}
+
+.btn-group .btn {
+  transition: box-shadow 0.4s var(--transition-timing);
+  padding: 8px 16px;
+  border-radius: var(--border-radius-lg);
+  margin: 0 2px;
+  font-weight: 500;
+}
+
+.btn-group .btn:hover {
+  box-shadow: 0 8px 20px var(--hover-shadow-color);
+}
+
+@media (max-width: 768px) {
+  .movie-img-container {
+    height: min(350px, 50vh);
+  }
+
+  .btn-group .btn {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,8 +1,20 @@
 {
   "Files": [
     {
-      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/scopedcss/projectbundle/CineTicket.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets/CineTicket.Web.vtni9mhka2.bundle.scp.css"
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/footer.css",
+      "PackagePath": "staticwebassets/css/footer.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/movie-card.css",
+      "PackagePath": "staticwebassets/css/movie-card.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/navbar.css",
+      "PackagePath": "staticwebassets/css/navbar.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/search.css",
+      "PackagePath": "staticwebassets/css/search.css"
     },
     {
       "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/site.css",

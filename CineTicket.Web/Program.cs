@@ -3,12 +3,12 @@ using CineTicket.Data.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using CineTicket.Core.Entities;
-
+using CineTicket.Application.Mappings;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddAutoMapper(typeof(Program)); 
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile)); 
 
 builder.Services.AddControllersWithViews();
 

@@ -3,13 +3,63 @@
 
 @if (Model.MovieStatus == MovieStatus.Available)
 {
-    <a href="#" class="btn btn-success w-50">Book Ticket</a>
+    <a href="#" class="btn btn-warning btn-sm movie-btn d-flex align-items-center justify-content-center flex-row flex-wrap">
+        <i class="bi bi-ticket-perforated-fill"></i> Book Now
+    </a>
 }
 else if (Model.MovieStatus == MovieStatus.Upcoming)
 {
-    <span class="btn btn-warning w-50">@Model.MovieStatus</span>
+    <span class="btn btn-outline-warning btn-sm movie-btn">
+        <i class="bi bi-clock-fill"></i> @Model.MovieStatus
+    </span>
 }
 else
 {
-    <span class="btn btn-danger w-50">@Model.MovieStatus</span>
+    <span class="btn btn-outline-danger btn-sm movie-btn">
+        <i class="bi bi-x-circle-fill"></i> @Model.MovieStatus
+    </span>
 }
+
+<style>
+    .movie-btn {
+        transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+        border-radius: 20px;
+        font-weight: 500;
+        padding: 8px 16px;
+        border: 1px solid rgba(255, 193, 7, 0.3);
+    }
+    
+    .movie-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(255, 193, 7, 0.3);
+    }
+    
+    .btn-outline-warning {
+        color: #ffc107;
+        border-color: #ffc107;
+    }
+    
+    .btn-outline-warning:hover {
+        background-color: #ffc107;
+        color: #000;
+    }
+    
+    .btn-outline-danger {
+        color: #dc3545;
+        border-color: #dc3545;
+    }
+    
+    .btn-outline-danger:hover {
+        background-color: #dc3545;
+        color: #fff;
+    }
+    
+    .btn-warning {
+        background-color: #ffc107;
+        color: #000;
+    }
+    
+    .btn-warning:hover {
+        background-color: #e0a800;
+    }
+</style>
