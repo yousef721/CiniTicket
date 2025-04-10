@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m4CVWWtaib3EvxCdNsW9L+k/jZtwuqc1JOPPUbZfFz0=",
+  "Hash": "MoePenNCOUm3ISFpm7Pc0c+00Qdpuezo2lEVozCScy4=",
   "Source": "CineTicket.Web",
   "BasePath": "_content/CineTicket.Web",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-kxuugwzx2u.gz",
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-o9rc2s836h.gz",
       "SourceId": "CineTicket.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CineTicket.Web",
-      "RelativePath": "css/footer#[.{fingerprint=kxuugwzx2u}]?.css.gz",
+      "RelativePath": "css/footer#[.{fingerprint=o9rc2s836h}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/footer.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5iv9um41v5",
-      "Integrity": "Q4LA1rWynJqtDZINKfhtyRujJV1RLWbVy8HZVsWUXOI=",
+      "Fingerprint": "9i1k0bgs77",
+      "Integrity": "X6+5ULLxrk+QlywPvkpjcddkSAlJIAtWzRGCb79atnQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/footer.css"
@@ -563,12 +563,12 @@
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-dgr8pnqbke.gz",
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-4uzpjdepl5.gz",
       "SourceId": "CineTicket.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CineTicket.Web",
-      "RelativePath": "css/site#[.{fingerprint=dgr8pnqbke}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=4uzpjdepl5}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -577,8 +577,8 @@
       "RelatedAsset": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uebrem4upy",
-      "Integrity": "hhgdkcHEbPYL/bCU+PRiL8SN7EUT3pOa4AYmZ79HvlE=",
+      "Fingerprint": "arm5l05u7a",
+      "Integrity": "dgd0uPcHJitFTRT35T/LSSsqGY0+hluetja19FxSnLk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/site.css"
@@ -731,12 +731,12 @@
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-ft5323e0df.gz",
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-sleii5hv6o.gz",
       "SourceId": "CineTicket.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CineTicket.Web",
-      "RelativePath": "css/movie-card#[.{fingerprint=ft5323e0df}]?.css.gz",
+      "RelativePath": "css/movie-card#[.{fingerprint=sleii5hv6o}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -745,8 +745,8 @@
       "RelatedAsset": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/movie-card.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5h5odlgs06",
-      "Integrity": "Ry2KdtAl7zXml53Bkb3KUdGyRrO4GYUG3G1mrb7ww7U=",
+      "Fingerprint": "32hy5frfm6",
+      "Integrity": "27tCpcsyF0Zhb/nYAYfcf3xPJ14iFdKRoAogDH4WckU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/movie-card.css"
@@ -962,6 +962,27 @@
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/pfa7ncoriv-r1moasj7kq.gz",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "css/auth#[.{fingerprint=r1moasj7kq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/auth.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7oo1wj0nmh",
+      "Integrity": "2cCehvtnJfmfy89iaCc9bg5MsJhbSVXa4HKcmchOy5Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/auth.css"
+    },
+    {
       "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/plafebvog5-o1o13a6vjx.gz",
       "SourceId": "CineTicket.Web",
       "SourceType": "Discovered",
@@ -1046,12 +1067,12 @@
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-esvz7dz9ct.gz",
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-7c7b5dwy24.gz",
       "SourceId": "CineTicket.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CineTicket.Web",
-      "RelativePath": "css/search#[.{fingerprint=esvz7dz9ct}]?.css.gz",
+      "RelativePath": "css/search#[.{fingerprint=7c7b5dwy24}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1060,8 +1081,8 @@
       "RelatedAsset": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/search.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "v6kn66h06v",
-      "Integrity": "93NskL6By+VAVkCOMqVzhixrDuD9iHjcipOdhvES8F4=",
+      "Fingerprint": "v9kdcz7i1d",
+      "Integrity": "HXDPDy8r0XKjPg0XNAiNpRwIAXHARpQwHfrSAsYcUVE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/search.css"
@@ -1193,12 +1214,12 @@
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-psn6x94xta.gz",
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-gq5wgfpgg1.gz",
       "SourceId": "CineTicket.Web",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CineTicket.Web",
-      "RelativePath": "css/navbar#[.{fingerprint=psn6x94xta}]?.css.gz",
+      "RelativePath": "css/navbar#[.{fingerprint=gq5wgfpgg1}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1207,8 +1228,8 @@
       "RelatedAsset": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/navbar.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "blg4jzn3zo",
-      "Integrity": "AURpovgyj5jbn/+yDT4cBlb8HPVXyo4CK2xyBhBXPGg=",
+      "Fingerprint": "0wrlf635zv",
+      "Integrity": "cDdTGjzSBL8VjFmlyukP3Q4NbJt/uaPvXkTzlE+KcuU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/navbar.css"
@@ -1382,6 +1403,27 @@
       "OriginalItemSpec": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
+      "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/auth.css",
+      "SourceId": "CineTicket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/",
+      "BasePath": "_content/CineTicket.Web",
+      "RelativePath": "css/auth#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r1moasj7kq",
+      "Integrity": "n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/auth.css"
+    },
+    {
       "Identity": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/footer.css",
       "SourceId": "CineTicket.Web",
       "SourceType": "Discovered",
@@ -1396,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kxuugwzx2u",
-      "Integrity": "GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg=",
+      "Fingerprint": "o9rc2s836h",
+      "Integrity": "DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/footer.css"
@@ -1417,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ft5323e0df",
-      "Integrity": "zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c=",
+      "Fingerprint": "sleii5hv6o",
+      "Integrity": "cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/movie-card.css"
@@ -1438,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "psn6x94xta",
-      "Integrity": "+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU=",
+      "Fingerprint": "gq5wgfpgg1",
+      "Integrity": "CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/navbar.css"
@@ -1459,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "esvz7dz9ct",
-      "Integrity": "rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY=",
+      "Fingerprint": "7c7b5dwy24",
+      "Integrity": "5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/search.css"
@@ -1480,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dgr8pnqbke",
-      "Integrity": "A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw=",
+      "Fingerprint": "4uzpjdepl5",
+      "Integrity": "rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -3652,13 +3694,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/footer.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-kxuugwzx2u.gz",
+      "Route": "css/auth.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/pfa7ncoriv-r1moasj7kq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002283105023"
+          "Quality": "0.000885739593"
         }
       ],
       "ResponseHeaders": [
@@ -3668,15 +3710,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "437"
+          "Value": "1128"
         },
         {
           "Name": "ETag",
-          "Value": "\"Q4LA1rWynJqtDZINKfhtyRujJV1RLWbVy8HZVsWUXOI=\""
+          "Value": "\"2cCehvtnJfmfy89iaCc9bg5MsJhbSVXa4HKcmchOy5Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:03:17 GMT"
+          "Value": "Thu, 10 Apr 2025 17:02:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3696,13 +3738,311 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg=\""
+          "Value": "W/\"n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg="
+          "Value": "sha256-n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY="
+        }
+      ]
+    },
+    {
+      "Route": "css/auth.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/auth.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 17:02:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY="
+        }
+      ]
+    },
+    {
+      "Route": "css/auth.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/pfa7ncoriv-r1moasj7kq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2cCehvtnJfmfy89iaCc9bg5MsJhbSVXa4HKcmchOy5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 17:02:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2cCehvtnJfmfy89iaCc9bg5MsJhbSVXa4HKcmchOy5Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/auth.r1moasj7kq.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/pfa7ncoriv-r1moasj7kq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000885739593"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2cCehvtnJfmfy89iaCc9bg5MsJhbSVXa4HKcmchOy5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 17:02:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r1moasj7kq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/auth.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY="
+        }
+      ]
+    },
+    {
+      "Route": "css/auth.r1moasj7kq.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/auth.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 17:02:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r1moasj7kq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/auth.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n69JOF6o1I82t6dspck3OM9iFxrc32/gZPho9OoZjYY="
+        }
+      ]
+    },
+    {
+      "Route": "css/auth.r1moasj7kq.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/pfa7ncoriv-r1moasj7kq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2cCehvtnJfmfy89iaCc9bg5MsJhbSVXa4HKcmchOy5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 17:02:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r1moasj7kq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/auth.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2cCehvtnJfmfy89iaCc9bg5MsJhbSVXa4HKcmchOy5Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/footer.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-o9rc2s836h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002232142857"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6+5ULLxrk+QlywPvkpjcddkSAlJIAtWzRGCb79atnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:39:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk="
         }
       ]
     },
@@ -3717,7 +4057,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1053"
+          "Value": "1095"
         },
         {
           "Name": "Content-Type",
@@ -3725,11 +4065,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg=\""
+          "Value": "\"DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:03:17 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3739,13 +4079,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg="
+          "Value": "sha256-DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk="
         }
       ]
     },
     {
       "Route": "css/footer.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-kxuugwzx2u.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-o9rc2s836h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3754,7 +4094,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "437"
+          "Value": "447"
         },
         {
           "Name": "Content-Type",
@@ -3762,11 +4102,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q4LA1rWynJqtDZINKfhtyRujJV1RLWbVy8HZVsWUXOI=\""
+          "Value": "\"X6+5ULLxrk+QlywPvkpjcddkSAlJIAtWzRGCb79atnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:03:17 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3784,18 +4124,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q4LA1rWynJqtDZINKfhtyRujJV1RLWbVy8HZVsWUXOI="
+          "Value": "sha256-X6+5ULLxrk+QlywPvkpjcddkSAlJIAtWzRGCb79atnQ="
         }
       ]
     },
     {
-      "Route": "css/footer.kxuugwzx2u.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-kxuugwzx2u.gz",
+      "Route": "css/footer.o9rc2s836h.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-o9rc2s836h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002283105023"
+          "Quality": "0.002232142857"
         }
       ],
       "ResponseHeaders": [
@@ -3805,15 +4145,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "437"
+          "Value": "447"
         },
         {
           "Name": "ETag",
-          "Value": "\"Q4LA1rWynJqtDZINKfhtyRujJV1RLWbVy8HZVsWUXOI=\""
+          "Value": "\"X6+5ULLxrk+QlywPvkpjcddkSAlJIAtWzRGCb79atnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:03:17 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3833,13 +4173,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg=\""
+          "Value": "W/\"DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kxuugwzx2u"
+          "Value": "o9rc2s836h"
         },
         {
           "Name": "label",
@@ -3847,12 +4187,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg="
+          "Value": "sha256-DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk="
         }
       ]
     },
     {
-      "Route": "css/footer.kxuugwzx2u.css",
+      "Route": "css/footer.o9rc2s836h.css",
       "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/footer.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3862,7 +4202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1053"
+          "Value": "1095"
         },
         {
           "Name": "Content-Type",
@@ -3870,11 +4210,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg=\""
+          "Value": "\"DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:03:17 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3884,7 +4224,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kxuugwzx2u"
+          "Value": "o9rc2s836h"
         },
         {
           "Name": "label",
@@ -3892,13 +4232,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GPgDRPrAX4VLVkjkoDkui8nXKBJR7b7NCwmjE6Wbfyg="
+          "Value": "sha256-DIdjIrG9l/AZ8veaNftxt4M1FUpsYPUYbt049rDKMpk="
         }
       ]
     },
     {
-      "Route": "css/footer.kxuugwzx2u.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-kxuugwzx2u.gz",
+      "Route": "css/footer.o9rc2s836h.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-o9rc2s836h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3907,7 +4247,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "437"
+          "Value": "447"
         },
         {
           "Name": "Content-Type",
@@ -3915,11 +4255,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q4LA1rWynJqtDZINKfhtyRujJV1RLWbVy8HZVsWUXOI=\""
+          "Value": "\"X6+5ULLxrk+QlywPvkpjcddkSAlJIAtWzRGCb79atnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:03:17 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3937,7 +4277,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kxuugwzx2u"
+          "Value": "o9rc2s836h"
         },
         {
           "Name": "label",
@@ -3945,18 +4285,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Q4LA1rWynJqtDZINKfhtyRujJV1RLWbVy8HZVsWUXOI="
+          "Value": "sha256-X6+5ULLxrk+QlywPvkpjcddkSAlJIAtWzRGCb79atnQ="
         }
       ]
     },
     {
       "Route": "css/movie-card.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-ft5323e0df.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-sleii5hv6o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000944287063"
+          "Quality": "0.000815660685"
         }
       ],
       "ResponseHeaders": [
@@ -3966,15 +4306,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1058"
+          "Value": "1225"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ry2KdtAl7zXml53Bkb3KUdGyRrO4GYUG3G1mrb7ww7U=\""
+          "Value": "\"27tCpcsyF0Zhb/nYAYfcf3xPJ14iFdKRoAogDH4WckU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:34:54 GMT"
+          "Value": "Thu, 10 Apr 2025 17:36:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3994,13 +4334,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c=\""
+          "Value": "W/\"cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c="
+          "Value": "sha256-cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q="
         }
       ]
     },
@@ -4015,7 +4355,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3962"
+          "Value": "5590"
         },
         {
           "Name": "Content-Type",
@@ -4023,11 +4363,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c=\""
+          "Value": "\"cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:34:54 GMT"
+          "Value": "Thu, 10 Apr 2025 17:36:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4037,13 +4377,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c="
+          "Value": "sha256-cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q="
         }
       ]
     },
     {
       "Route": "css/movie-card.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-ft5323e0df.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-sleii5hv6o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4052,7 +4392,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1058"
+          "Value": "1225"
         },
         {
           "Name": "Content-Type",
@@ -4060,11 +4400,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ry2KdtAl7zXml53Bkb3KUdGyRrO4GYUG3G1mrb7ww7U=\""
+          "Value": "\"27tCpcsyF0Zhb/nYAYfcf3xPJ14iFdKRoAogDH4WckU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:34:54 GMT"
+          "Value": "Thu, 10 Apr 2025 17:36:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4082,18 +4422,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ry2KdtAl7zXml53Bkb3KUdGyRrO4GYUG3G1mrb7ww7U="
+          "Value": "sha256-27tCpcsyF0Zhb/nYAYfcf3xPJ14iFdKRoAogDH4WckU="
         }
       ]
     },
     {
-      "Route": "css/movie-card.ft5323e0df.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-ft5323e0df.gz",
+      "Route": "css/movie-card.sleii5hv6o.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-sleii5hv6o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000944287063"
+          "Quality": "0.000815660685"
         }
       ],
       "ResponseHeaders": [
@@ -4103,15 +4443,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1058"
+          "Value": "1225"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ry2KdtAl7zXml53Bkb3KUdGyRrO4GYUG3G1mrb7ww7U=\""
+          "Value": "\"27tCpcsyF0Zhb/nYAYfcf3xPJ14iFdKRoAogDH4WckU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:34:54 GMT"
+          "Value": "Thu, 10 Apr 2025 17:36:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4131,13 +4471,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c=\""
+          "Value": "W/\"cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ft5323e0df"
+          "Value": "sleii5hv6o"
         },
         {
           "Name": "label",
@@ -4145,12 +4485,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c="
+          "Value": "sha256-cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q="
         }
       ]
     },
     {
-      "Route": "css/movie-card.ft5323e0df.css",
+      "Route": "css/movie-card.sleii5hv6o.css",
       "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/movie-card.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4160,7 +4500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3962"
+          "Value": "5590"
         },
         {
           "Name": "Content-Type",
@@ -4168,11 +4508,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c=\""
+          "Value": "\"cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:34:54 GMT"
+          "Value": "Thu, 10 Apr 2025 17:36:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4182,7 +4522,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ft5323e0df"
+          "Value": "sleii5hv6o"
         },
         {
           "Name": "label",
@@ -4190,13 +4530,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zbHu1T7pUUDhlPKqrxybvtIWBpitBpnN6bmV1YgCw8c="
+          "Value": "sha256-cHDfHfvwQ0NkDOWWkEq7G5bZQ9dGg61HpZ09+UnNX7Q="
         }
       ]
     },
     {
-      "Route": "css/movie-card.ft5323e0df.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-ft5323e0df.gz",
+      "Route": "css/movie-card.sleii5hv6o.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-sleii5hv6o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4205,7 +4545,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1058"
+          "Value": "1225"
         },
         {
           "Name": "Content-Type",
@@ -4213,11 +4553,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ry2KdtAl7zXml53Bkb3KUdGyRrO4GYUG3G1mrb7ww7U=\""
+          "Value": "\"27tCpcsyF0Zhb/nYAYfcf3xPJ14iFdKRoAogDH4WckU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:34:54 GMT"
+          "Value": "Thu, 10 Apr 2025 17:36:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4235,7 +4575,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ft5323e0df"
+          "Value": "sleii5hv6o"
         },
         {
           "Name": "label",
@@ -4243,18 +4583,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ry2KdtAl7zXml53Bkb3KUdGyRrO4GYUG3G1mrb7ww7U="
+          "Value": "sha256-27tCpcsyF0Zhb/nYAYfcf3xPJ14iFdKRoAogDH4WckU="
         }
       ]
     },
     {
       "Route": "css/navbar.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-psn6x94xta.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-gq5wgfpgg1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001490312966"
+          "Quality": "0.001494768311"
         }
       ],
       "ResponseHeaders": [
@@ -4264,15 +4604,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "670"
+          "Value": "668"
         },
         {
           "Name": "ETag",
-          "Value": "\"AURpovgyj5jbn/+yDT4cBlb8HPVXyo4CK2xyBhBXPGg=\""
+          "Value": "\"cDdTGjzSBL8VjFmlyukP3Q4NbJt/uaPvXkTzlE+KcuU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:49:04 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4292,13 +4632,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU=\""
+          "Value": "W/\"CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU="
+          "Value": "sha256-CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A="
         }
       ]
     },
@@ -4313,7 +4653,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2035"
+          "Value": "2258"
         },
         {
           "Name": "Content-Type",
@@ -4321,11 +4661,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU=\""
+          "Value": "\"CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:49:04 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4335,13 +4675,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU="
+          "Value": "sha256-CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A="
         }
       ]
     },
     {
       "Route": "css/navbar.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-psn6x94xta.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-gq5wgfpgg1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4350,7 +4690,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "670"
+          "Value": "668"
         },
         {
           "Name": "Content-Type",
@@ -4358,11 +4698,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AURpovgyj5jbn/+yDT4cBlb8HPVXyo4CK2xyBhBXPGg=\""
+          "Value": "\"cDdTGjzSBL8VjFmlyukP3Q4NbJt/uaPvXkTzlE+KcuU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:49:04 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4380,18 +4720,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AURpovgyj5jbn/+yDT4cBlb8HPVXyo4CK2xyBhBXPGg="
+          "Value": "sha256-cDdTGjzSBL8VjFmlyukP3Q4NbJt/uaPvXkTzlE+KcuU="
         }
       ]
     },
     {
-      "Route": "css/navbar.psn6x94xta.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-psn6x94xta.gz",
+      "Route": "css/navbar.gq5wgfpgg1.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-gq5wgfpgg1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001490312966"
+          "Quality": "0.001494768311"
         }
       ],
       "ResponseHeaders": [
@@ -4401,15 +4741,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "670"
+          "Value": "668"
         },
         {
           "Name": "ETag",
-          "Value": "\"AURpovgyj5jbn/+yDT4cBlb8HPVXyo4CK2xyBhBXPGg=\""
+          "Value": "\"cDdTGjzSBL8VjFmlyukP3Q4NbJt/uaPvXkTzlE+KcuU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:49:04 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4429,13 +4769,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU=\""
+          "Value": "W/\"CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "psn6x94xta"
+          "Value": "gq5wgfpgg1"
         },
         {
           "Name": "label",
@@ -4443,12 +4783,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU="
+          "Value": "sha256-CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A="
         }
       ]
     },
     {
-      "Route": "css/navbar.psn6x94xta.css",
+      "Route": "css/navbar.gq5wgfpgg1.css",
       "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/navbar.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4458,7 +4798,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2035"
+          "Value": "2258"
         },
         {
           "Name": "Content-Type",
@@ -4466,11 +4806,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU=\""
+          "Value": "\"CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:49:04 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4480,7 +4820,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "psn6x94xta"
+          "Value": "gq5wgfpgg1"
         },
         {
           "Name": "label",
@@ -4488,13 +4828,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+cIpEJXz6/dVvu7XwUDrMnZEn+zzyb7IyD+p0Ybj/YU="
+          "Value": "sha256-CCEBMmjuUXMi7IS3oXCo5VXBLyt47lhduxO0EV4jT6A="
         }
       ]
     },
     {
-      "Route": "css/navbar.psn6x94xta.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-psn6x94xta.gz",
+      "Route": "css/navbar.gq5wgfpgg1.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-gq5wgfpgg1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4503,7 +4843,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "670"
+          "Value": "668"
         },
         {
           "Name": "Content-Type",
@@ -4511,11 +4851,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AURpovgyj5jbn/+yDT4cBlb8HPVXyo4CK2xyBhBXPGg=\""
+          "Value": "\"cDdTGjzSBL8VjFmlyukP3Q4NbJt/uaPvXkTzlE+KcuU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:49:04 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4533,7 +4873,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "psn6x94xta"
+          "Value": "gq5wgfpgg1"
         },
         {
           "Name": "label",
@@ -4541,18 +4881,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AURpovgyj5jbn/+yDT4cBlb8HPVXyo4CK2xyBhBXPGg="
+          "Value": "sha256-cDdTGjzSBL8VjFmlyukP3Q4NbJt/uaPvXkTzlE+KcuU="
         }
       ]
     },
     {
-      "Route": "css/search.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-esvz7dz9ct.gz",
+      "Route": "css/search.7c7b5dwy24.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-7c7b5dwy24.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001526717557"
+          "Quality": "0.001545595054"
         }
       ],
       "ResponseHeaders": [
@@ -4562,19 +4902,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "654"
+          "Value": "646"
         },
         {
           "Name": "ETag",
-          "Value": "\"93NskL6By+VAVkCOMqVzhixrDuD9iHjcipOdhvES8F4=\""
+          "Value": "\"HXDPDy8r0XKjPg0XNAiNpRwIAXHARpQwHfrSAsYcUVE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:50:54 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:52 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4590,18 +4930,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY=\""
+          "Value": "W/\"5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "7c7b5dwy24"
+        },
+        {
+          "Name": "label",
+          "Value": "css/search.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY="
+          "Value": "sha256-5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE="
         }
       ]
     },
     {
-      "Route": "css/search.css",
+      "Route": "css/search.7c7b5dwy24.css",
       "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/search.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4611,7 +4959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2322"
+          "Value": "2420"
         },
         {
           "Name": "Content-Type",
@@ -4619,121 +4967,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY=\""
+          "Value": "\"5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:50:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY="
-        }
-      ]
-    },
-    {
-      "Route": "css/search.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-esvz7dz9ct.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "654"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"93NskL6By+VAVkCOMqVzhixrDuD9iHjcipOdhvES8F4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:50:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-93NskL6By+VAVkCOMqVzhixrDuD9iHjcipOdhvES8F4="
-        }
-      ]
-    },
-    {
-      "Route": "css/search.esvz7dz9ct.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-esvz7dz9ct.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001526717557"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "654"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"93NskL6By+VAVkCOMqVzhixrDuD9iHjcipOdhvES8F4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:50:54 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:52 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "esvz7dz9ct"
+          "Value": "7c7b5dwy24"
         },
         {
           "Name": "label",
@@ -4741,13 +4989,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY="
+          "Value": "sha256-5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE="
         }
       ]
     },
     {
-      "Route": "css/search.esvz7dz9ct.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/search.css",
+      "Route": "css/search.7c7b5dwy24.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-7c7b5dwy24.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4756,7 +5004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2322"
+          "Value": "646"
         },
         {
           "Name": "Content-Type",
@@ -4764,56 +5012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY=\""
+          "Value": "\"HXDPDy8r0XKjPg0XNAiNpRwIAXHARpQwHfrSAsYcUVE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:50:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "esvz7dz9ct"
-        },
-        {
-          "Name": "label",
-          "Value": "css/search.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rramdLtY3DwGpDyvUDh4lrEbB2cSGTjZcIKBVKLgSSY="
-        }
-      ]
-    },
-    {
-      "Route": "css/search.esvz7dz9ct.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-esvz7dz9ct.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "654"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"93NskL6By+VAVkCOMqVzhixrDuD9iHjcipOdhvES8F4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:50:54 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4831,7 +5034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "esvz7dz9ct"
+          "Value": "7c7b5dwy24"
         },
         {
           "Name": "label",
@@ -4839,18 +5042,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-93NskL6By+VAVkCOMqVzhixrDuD9iHjcipOdhvES8F4="
+          "Value": "sha256-HXDPDy8r0XKjPg0XNAiNpRwIAXHARpQwHfrSAsYcUVE="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-dgr8pnqbke.gz",
+      "Route": "css/search.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-7c7b5dwy24.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000809061489"
+          "Quality": "0.001545595054"
         }
       ],
       "ResponseHeaders": [
@@ -4860,15 +5063,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1235"
+          "Value": "646"
         },
         {
           "Name": "ETag",
-          "Value": "\"hhgdkcHEbPYL/bCU+PRiL8SN7EUT3pOa4AYmZ79HvlE=\""
+          "Value": "\"HXDPDy8r0XKjPg0XNAiNpRwIAXHARpQwHfrSAsYcUVE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:48:43 GMT"
+          "Value": "Thu, 10 Apr 2025 16:39:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4888,18 +5091,163 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw=\""
+          "Value": "W/\"5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw="
+          "Value": "sha256-5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/search.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/search.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5/Kay+ikTvs5IJCmQ8gxs6wB0ZkI2W7WL26ojUbxjuE="
+        }
+      ]
+    },
+    {
+      "Route": "css/search.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-7c7b5dwy24.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HXDPDy8r0XKjPg0XNAiNpRwIAXHARpQwHfrSAsYcUVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HXDPDy8r0XKjPg0XNAiNpRwIAXHARpQwHfrSAsYcUVE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.4uzpjdepl5.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-4uzpjdepl5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000703234880"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1421"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dgd0uPcHJitFTRT35T/LSSsqGY0+hluetja19FxSnLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4uzpjdepl5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.4uzpjdepl5.css",
       "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4909,7 +5257,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3598"
+          "Value": "4275"
         },
         {
           "Name": "Content-Type",
@@ -4917,121 +5265,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw=\""
+          "Value": "\"rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:48:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-dgr8pnqbke.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1235"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hhgdkcHEbPYL/bCU+PRiL8SN7EUT3pOa4AYmZ79HvlE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:48:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hhgdkcHEbPYL/bCU+PRiL8SN7EUT3pOa4AYmZ79HvlE="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.dgr8pnqbke.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-dgr8pnqbke.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000809061489"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1235"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hhgdkcHEbPYL/bCU+PRiL8SN7EUT3pOa4AYmZ79HvlE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:48:43 GMT"
+          "Value": "Thu, 10 Apr 2025 16:45:22 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dgr8pnqbke"
+          "Value": "4uzpjdepl5"
         },
         {
           "Name": "label",
@@ -5039,13 +5287,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw="
+          "Value": "sha256-rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE="
         }
       ]
     },
     {
-      "Route": "css/site.dgr8pnqbke.css",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/site.css",
+      "Route": "css/site.4uzpjdepl5.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-4uzpjdepl5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5054,7 +5302,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3598"
+          "Value": "1421"
         },
         {
           "Name": "Content-Type",
@@ -5062,56 +5310,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw=\""
+          "Value": "\"dgd0uPcHJitFTRT35T/LSSsqGY0+hluetja19FxSnLk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:48:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dgr8pnqbke"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-A+6TTr1IOmXyKNw5oY5Ehm5+Y4Bjg4jRBcreMR67wUw="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.dgr8pnqbke.css.gz",
-      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-dgr8pnqbke.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1235"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hhgdkcHEbPYL/bCU+PRiL8SN7EUT3pOa4AYmZ79HvlE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 15:48:43 GMT"
+          "Value": "Thu, 10 Apr 2025 16:45:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5129,7 +5332,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dgr8pnqbke"
+          "Value": "4uzpjdepl5"
         },
         {
           "Name": "label",
@@ -5137,7 +5340,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hhgdkcHEbPYL/bCU+PRiL8SN7EUT3pOa4AYmZ79HvlE="
+          "Value": "sha256-dgd0uPcHJitFTRT35T/LSSsqGY0+hluetja19FxSnLk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-4uzpjdepl5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000703234880"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1421"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dgd0uPcHJitFTRT35T/LSSsqGY0+hluetja19FxSnLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rOgjcFer7iIep40Gbmx4ngdnarvvgLw8kaEKCCtakGE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-4uzpjdepl5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dgd0uPcHJitFTRT35T/LSSsqGY0+hluetja19FxSnLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dgd0uPcHJitFTRT35T/LSSsqGY0+hluetja19FxSnLk="
         }
       ]
     },

@@ -17,10 +17,10 @@
                     <div class="overlay">
                         <div class="movie-info">
                             <h5 class="card-title text-warning fw-bold mb-3 text-truncate">@movie.Title</h5>
-                            @* <div class="movie-rating-detail">
+                            <div class="movie-rating-detail">
                                 <i class="bi bi-star-fill"></i>
                                 <span>@movie.Rating.ToString("0.0")</span>
-                            </div> *@
+                            </div>
                             <div class="movie-details mb-4">
                                 <p class="mb-2 text-truncate"><i class="bi bi-tag-fill text-warning"></i> <span class="text-light">@movie.Category.Name</span></p>
                                 <p class="mb-2 text-truncate"><i class="bi bi-camera-reels-fill text-warning"></i> <span class="text-light">@movie.Cinema.Name</span></p>
@@ -43,7 +43,7 @@
                                 </div>
                             </div>
                             <div class="d-flex justify-content-between align-items-center">
-                                <span class="h4 mb-0 text-warning fw-bold">EGP @movie.Price.ToString("0.00")</span>
+                                <span class="h4 my-2 text-warning fw-bold">EGP @movie.Price.ToString("0.00")</span>
                                 <div class="btn-group">
                                     <a href="@Url.Action("Details", "Movie", new { MovieId = movie.Id })" class="btn btn-outline-warning btn-sm movie-btn">
                                         <i class="bi bi-info-circle"></i> Details

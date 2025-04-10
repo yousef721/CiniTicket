@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/auth.css",
+      "PackagePath": "staticwebassets/css/auth.css"
+    },
+    {
       "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/footer.css",
       "PackagePath": "staticwebassets/css/footer.css"
     },

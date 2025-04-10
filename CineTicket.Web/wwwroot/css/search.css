@@ -1,97 +1,97 @@
 .search-container {
-    background: linear-gradient(135deg, var(--darker-bg), var(--dark-bg));
-    padding: 2rem;
-    border-radius: 15px;
-    margin: 2rem auto;
-    max-width: 800px;
-    box-shadow: 0 8px 25px var(--shadow-color);
-    transition: all 0.4s var(--transition-timing);
-    border: 1px solid var(--border-color);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+  background: linear-gradient(135deg, var(--darker-bg), var(--dark-bg));
+  padding: var(--spacing-lg);
+  border-radius: var(--border-radius-md);
+  margin: var(--spacing-lg) auto;
+  max-width: 800px;
+  box-shadow: 0 8px 25px var(--shadow-color);
+  transition: all 0.4s var(--transition-timing);
+  border: 1px solid var(--border-color);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 
 .search-container:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 12px 30px var(--shadow-color);
-    border-color: var(--border-color-hover);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px var(--shadow-color);
+  border-color: var(--border-color-hover);
 }
-  
+
 .search-container .input-group {
-    border: 2px solid var(--primary-color);
-    border-radius: 50px;
-    overflow: hidden;
-    transition: all 0.4s var(--transition-timing);
-    box-shadow: 0 2px 10px var(--shadow-color);
+  border: 2px solid var(--primary-color);
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+  transition: all 0.4s var(--transition-timing);
+  box-shadow: 0 2px 10px var(--shadow-color);
 }
 
 .search-container .input-group:focus-within {
-    border-color: var(--primary-hover);
-    box-shadow: 0 4px 15px var(--hover-shadow-color);
-    transform: translateY(-1px);
+  border-color: var(--primary-hover);
+  box-shadow: 0 4px 15px var(--hover-shadow-color);
+  transform: translateY(-1px);
 }
 
 .search-container input {
-    border: none;
-    padding: 1.2rem 1.8rem;
-    font-size: 1.1rem;
-    background: var(--dark-bg);
-    color: var(--text-color);
-    transition: all 0.3s var(--transition-timing);
-    width: 100%;
+  border: none;
+  padding: var(--spacing-md) var(--spacing-lg);
+  font-size: var(--font-size-lg);
+  background: var(--dark-bg);
+  color: var(--text-color);
+  transition: all 0.3s var(--transition-timing);
+  width: 100%;
 }
 
 .search-container input:focus {
-    box-shadow: none;
-    background: var(--dark-bg);
-    outline: none;
-    color: var(--text-color);
+  box-shadow: none;
+  background: var(--dark-bg);
+  outline: none;
+  color: var(--text-color);
 }
 
 .search-container input::placeholder {
-    color: var(--text-color);
-    transition: color 0.3s var(--transition-timing);
+  color: var(--text-muted);
+  transition: color 0.3s var(--transition-timing);
 }
 
 .search-container input:focus::placeholder {
-    color: var(--text-color);
+  color: var(--text-color);
 }
 
 .search-container .btn {
-    padding: 0.8rem 2.5rem;
-    background: var(--primary-color);
-    border: none;
-    color: #000;
-    font-weight: 600;
-    transition: all 0.4s var(--transition-timing);
-    position: relative;
-    overflow: hidden;
-    z-index: 1;
+  padding: var(--spacing-sm) var(--spacing-xl);
+  background: var(--primary-color);
+  border: none;
+  color: var(--darker-bg);
+  font-weight: 600;
+  transition: all 0.4s var(--transition-timing);
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
 }
 
 .search-container .btn:hover {
-    background: var(--primary-hover);
-    transform: translateX(3px);
-    box-shadow: 0 4px 15px var(--hover-shadow-color);
+  background: var(--primary-hover);
+  transform: translateX(3px);
+  box-shadow: 0 4px 15px var(--hover-shadow-color);
 }
 
 .search-container .btn:active {
-    transform: translateX(1px);
+  transform: translateX(1px);
 }
 
 /* Responsive styles */
 @media (max-width: 768px) {
-    .search-container {
-        margin: 1rem 15px;
-        padding: 1.5rem;
-    }
-    
-    .search-container input {
-        padding: 1rem 1.5rem;
-        font-size: 1rem;
-    }
-    
-    .search-container .btn {
-        padding: 0.7rem 2rem;
-    }
+  .search-container {
+    margin: var(--spacing-md) var(--spacing-sm);
+    padding: var(--spacing-lg);
+  }
+
+  .search-container input {
+    padding: var(--spacing-md) var(--spacing-lg);
+    font-size: var(--font-size-base);
+  }
+
+  .search-container .btn {
+    padding: var(--spacing-sm) var(--spacing-lg);
+  }
 }
