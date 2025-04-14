@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-sm navbar-dark bg-black">
+<nav class="navbar navbar-expand-sm">
     <div class="container">
-        <a class="navbar-brand text-warning" asp-area="" asp-controller="Home" asp-action="Index">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
             <i class="bi bi-film me-2"></i>CineTicket
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -10,24 +10,24 @@
         <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link hover-warning" asp-area="" asp-controller="Home" asp-action="Index">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
                         <i class="bi bi-house-door me-1"></i>Home
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link hover-warning" asp-area="" asp-controller="Cinema" asp-action="Index">
+                    <a class="nav-link" asp-area="" asp-controller="Cinema" asp-action="Index">
                         <i class="bi bi-camera-reels me-1"></i>Cinemas
                     </a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle hover-warning" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
                         <i class="bi bi-gear me-1"></i>Management
                     </a>
-                    <ul class="dropdown-menu bg-dark">
-                        <li><a class="dropdown-item text-light hover-warning" asp-controller="Actor" asp-action="Index"><i class="bi bi-person-badge me-2"></i>Actors</a></li>
-                        <li><a class="dropdown-item text-light hover-warning" asp-controller="Category" asp-action="Index"><i class="bi bi-collection me-2"></i>Categories</a></li>
-                        <li><a class="dropdown-item text-light hover-warning" asp-controller="Cinema" asp-action="Index"><i class="bi bi-camera-reels me-2"></i>Cinemas</a></li>
-                        <li><a class="dropdown-item text-light hover-warning" asp-controller="Movie" asp-action="Index"><i class="bi bi-film me-2"></i>Movies</a></li>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" asp-controller="Actor" asp-action="Index"><i class="bi bi-person-badge me-2"></i>Actors</a></li>
+                        <li><a class="dropdown-item" asp-controller="Category" asp-action="Index"><i class="bi bi-collection me-2"></i>Categories</a></li>
+                        <li><a class="dropdown-item" asp-controller="Cinema" asp-action="Index"><i class="bi bi-camera-reels me-2"></i>Cinemas</a></li>
+                        <li><a class="dropdown-item" asp-controller="Movie" asp-action="Index"><i class="bi bi-film me-2"></i>Movies</a></li>
                     </ul>
                 </li>
             </ul>
@@ -69,8 +69,3 @@
         </div>
     </div>
 </nav>
-
-<style>
-
-
-</style>

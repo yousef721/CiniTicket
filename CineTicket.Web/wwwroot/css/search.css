@@ -1,67 +1,71 @@
 .search-container {
-  background: linear-gradient(135deg, var(--darker-bg), var(--dark-bg));
+  background: linear-gradient(
+    135deg,
+    var(--theme-bg-secondary),
+    var(--theme-bg)
+  );
   padding: var(--spacing-lg);
   border-radius: var(--border-radius-md);
   margin: var(--spacing-lg) auto;
   max-width: 800px;
-  box-shadow: 0 8px 25px var(--shadow-color);
+  box-shadow: 0 8px 25px var(--theme-shadow);
   transition: all 0.4s var(--transition-timing);
-  border: 1px solid var(--border-color);
+  border: 1px solid var(--theme-border);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
 
 .search-container:hover {
   transform: translateY(-3px);
-  box-shadow: 0 12px 30px var(--shadow-color);
-  border-color: var(--border-color-hover);
+  box-shadow: 0 12px 30px var(--theme-shadow);
+  border-color: var(--theme-border-hover);
 }
 
 .search-container .input-group {
-  border: 2px solid var(--primary-color);
+  border: 2px solid var(--theme-primary);
   border-radius: var(--border-radius-lg);
   overflow: hidden;
   transition: all 0.4s var(--transition-timing);
-  box-shadow: 0 2px 10px var(--shadow-color);
+  box-shadow: 0 2px 10px var(--theme-shadow);
 }
 
 .search-container .input-group:focus-within {
-  border-color: var(--primary-hover);
-  box-shadow: 0 4px 15px var(--hover-shadow-color);
-  transform: translateY(-1px);
+  outline: 2px solid var(--theme-primary);
+  outline-offset: 2px;
 }
 
 .search-container input {
   border: none;
   padding: var(--spacing-md) var(--spacing-lg);
   font-size: var(--font-size-lg);
-  background: var(--dark-bg);
-  color: var(--text-color);
+  background: var(--theme-bg);
+  color: var(--theme-text);
   transition: all 0.3s var(--transition-timing);
   width: 100%;
+  accent-color: var(--theme-primary);
 }
 
 .search-container input:focus {
   box-shadow: none;
-  background: var(--dark-bg);
+  background: var(--theme-bg);
   outline: none;
-  color: var(--text-color);
+  color: var(--theme-text);
 }
 
 .search-container input::placeholder {
-  color: var(--text-muted);
+  color: var(--theme-text-muted);
   transition: color 0.3s var(--transition-timing);
 }
 
 .search-container input:focus::placeholder {
-  color: var(--text-color);
+  color: var(--theme-text);
 }
 
 .search-container .btn {
   padding: var(--spacing-sm) var(--spacing-xl);
-  background: var(--primary-color);
+  background: var(--theme-primary);
   border: none;
-  color: var(--darker-bg);
+  color: var(--theme-bg-secondary);
   font-weight: 600;
   transition: all 0.4s var(--transition-timing);
   position: relative;
@@ -70,13 +74,33 @@
 }
 
 .search-container .btn:hover {
-  background: var(--primary-hover);
+  background: var(--theme-primary-hover);
   transform: translateX(3px);
-  box-shadow: 0 4px 15px var(--hover-shadow-color);
+  box-shadow: 0 4px 15px var(--theme-hover-shadow);
 }
 
 .search-container .btn:active {
   transform: translateX(1px);
+}
+
+/* Add modern button loading state */
+.search-container .btn[data-loading="true"] {
+  background: linear-gradient(
+    90deg,
+    var(--theme-primary),
+    var(--theme-primary-hover)
+  );
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+  0% {
+    background-position: 100% 0;
+  }
+  100% {
+    background-position: -100% 0;
+  }
 }
 
 /* Responsive styles */

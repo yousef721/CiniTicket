@@ -1,65 +1,77 @@
 @using CineTicket.Core.Enums
 @model Movie
 
-@if (Model.MovieStatus == MovieStatus.Available)
-{
-    <a href="#" class="btn btn-warning btn-sm movie-btn d-flex align-items-center justify-content-center flex-row flex-wrap">
-        <i class="bi bi-ticket-perforated-fill"></i> Book Now
-    </a>
+@{
+    var buttonClass = Model.MovieStatus switch
+    {
+        MovieStatus.Available => "btn-warning",
+        MovieStatus.Upcoming => "btn-outline-warning", 
+        _ => "btn-outline-danger"
+    };
+
+    var icon = Model.MovieStatus switch
+    {
+        MovieStatus.Available => "bi-ticket-perforated-fill",
+        MovieStatus.Upcoming => "bi-clock-fill",
+        _ => "bi-x-circle-fill" 
+    };
+
+    var text = Model.MovieStatus == MovieStatus.Available ? "Book Now" : Model.MovieStatus.ToString();
 }
-else if (Model.MovieStatus == MovieStatus.Upcoming)
-{
-    <span class="btn btn-outline-warning btn-sm movie-btn">
-        <i class="bi bi-clock-fill"></i> @Model.MovieStatus
-    </span>
-}
-else
-{
-    <span class="btn btn-outline-danger btn-sm movie-btn">
-        <i class="bi bi-x-circle-fill"></i> @Model.MovieStatus
-    </span>
-}
+
+<a href="@(Model.MovieStatus == MovieStatus.Available ? "#" : null)" 
+   class="btn @buttonClass btn-sm movie-btn d-flex flex-column align-items-center @(Model.MovieStatus != MovieStatus.Available ? "disabled" : "")"
+   @(Model.MovieStatus != MovieStatus.Available ? "aria-disabled=true tabindex=-1" : "")>
+    <i class="bi @icon"></i>
+    <span>@text</span>
+</a>
 
 <style>
     .movie-btn {
-        transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
-        border-radius: 20px;
+        transition: var(--btn-transition);
+        border-radius: var(--btn-border-radius);
         font-weight: 500;
-        padding: 8px 16px;
-        border: 1px solid rgba(255, 193, 7, 0.3);
+        padding: var(--btn-padding);
+        border: var(--btn-border);
+        text-decoration: none;
     }
     
-    .movie-btn:hover {
+    .movie-btn:hover:not(.disabled) {
         transform: translateY(-2px);
-        box-shadow: 0 5px 15px rgba(255, 193, 7, 0.3);
+        box-shadow: var(--btn-shadow-hover);
+    }
+    
+    .movie-btn.disabled {
+        pointer-events: none;
+        opacity: 0.65;
     }
     
     .btn-outline-warning {
-        color: #ffc107;
-        border-color: #ffc107;
+        color: var(--theme-primary);
+        border-color: var(--theme-primary);
     }
     
-    .btn-outline-warning:hover {
-        background-color: #ffc107;
-        color: #000;
+    .btn-outline-warning:hover:not(.disabled) {
+        background-color: var(--theme-primary);
+        color: var(--theme-bg-secondary);
     }
     
     .btn-outline-danger {
-        color: #dc3545;
-        border-color: #dc3545;
+        color: var(--theme-text);
+        border-color: var(--theme-border);
     }
     
-    .btn-outline-danger:hover {
-        background-color: #dc3545;
-        color: #fff;
+    .btn-outline-danger:hover:not(.disabled) {
+        background-color: var(--theme-bg-tertiary);
+        color: var(--theme-text);
     }
     
     .btn-warning {
-        background-color: #ffc107;
-        color: #000;
+        background-color: var(--theme-primary);
+        color: var(--theme-bg-secondary);
     }
     
-    .btn-warning:hover {
-        background-color: #e0a800;
+    .btn-warning:hover:not(.disabled) {
+        background-color: var(--theme-primary-hover);
     }
 </style>

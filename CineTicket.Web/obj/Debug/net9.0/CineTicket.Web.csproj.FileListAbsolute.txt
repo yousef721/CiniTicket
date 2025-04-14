@@ -532,9 +532,10 @@
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/CineTicket.Web.pdb
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/CineTicket.Web.genruntimeconfig.cache
 /Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/ref/CineTicket.Web.dll
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-o9rc2s836h.gz
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-gq5wgfpgg1.gz
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-7c7b5dwy24.gz
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-4uzpjdepl5.gz
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/pfa7ncoriv-r1moasj7kq.gz
-/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-sleii5hv6o.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/j85gw707c5-fksajr360b.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/kokxsp3ai6-goeh7cs45i.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/hsq3d38nnf-vxtfr0q9ac.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/pfa7ncoriv-mk6x9m9tbp.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/0cjqj8gekr-zxcwzwgdpm.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/v6tcd1uzrx-6lmei0grxk.gz
+/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/obj/Debug/net9.0/compressed/ruy6e5rw3f-fb1sr7vsq7.gz
