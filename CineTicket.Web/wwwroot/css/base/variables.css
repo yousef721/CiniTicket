@@ -1,0 +1,141 @@
+:root {
+  /* Color System */
+  --primary-color: #ffc107;
+  --primary-hover: #ffd54f;
+  --primary-light: #fff8e1;
+  --primary-dark: #ffa000;
+  --primary-rgb: 255, 193, 7;
+
+  --dark-bg: rgb(26, 26, 26);
+  --darker-bg: rgb(18, 18, 18);
+  --light-bg: #2a2a2a;
+
+  --text-color: rgba(255, 255, 255, 0.85);
+  --text-muted: rgba(255, 255, 255, 0.6);
+  --text-light: rgba(255, 255, 255, 0.95);
+
+  /* Light Mode Colors */
+  --light-primary-color: #ff9800;
+  --light-primary-hover: #ffb74d;
+  --light-primary-light: #fff3e0;
+  --light-primary-dark: #f57c00;
+  --light-primary-rgb: 255, 152, 0;
+
+  --light-bg: #f8f9fa;
+  --light-bg-secondary: #e9ecef;
+  --light-bg-tertiary: #dee2e6;
+
+  --light-text-color: rgba(33, 37, 41, 0.85);
+  --light-text-muted: rgba(33, 37, 41, 0.6);
+  --light-text-dark: rgba(33, 37, 41, 0.95);
+
+  /* Status Colors */
+  --error-color: #ff4444;
+  --success-color: #00c851;
+  --warning-color: #ffbb33;
+  --info-color: #33b5e5;
+
+  /* Shadows & Borders */
+  --shadow-color: rgba(0, 0, 0, 0.3);
+  --shadow-color-heavy: rgba(0, 0, 0, 0.4);
+  --shadow-color-light: rgba(0, 0, 0, 0.2);
+  --border-color: rgba(255, 193, 7, 0.1);
+  --border-color-hover: rgba(255, 193, 7, 0.2);
+
+  /* Light Mode Shadows & Borders */
+  --light-shadow-color: rgba(0, 0, 0, 0.1);
+  --light-shadow-color-heavy: rgba(0, 0, 0, 0.2);
+  --light-shadow-color-light: rgba(0, 0, 0, 0.05);
+  --light-border-color: rgba(255, 152, 0, 0.1);
+  --light-border-color-hover: rgba(255, 152, 0, 0.2);
+
+  /* Transitions & Animations */
+  --transition-default: all 0.3s ease;
+  --transition-fast: all 0.15s ease;
+  --transition-slow: all 0.5s ease;
+  --transition-timing: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --animation-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+  /* Spacing & Layout */
+  --spacing-xl: 3rem;
+  --spacing-lg: 2rem;
+  --spacing-md: 1rem;
+  --spacing-sm: 0.5rem;
+  --spacing-xs: 0.25rem;
+
+  --border-radius-lg: 20px;
+  --border-radius-md: 15px;
+  --border-radius-sm: 10px;
+  --border-radius-xs: 5px;
+
+  --container-max-width: 1400px;
+  --container-padding: 1.5rem;
+
+  /* Typography */
+  --font-family: "Poppins", system-ui, -apple-system, sans-serif;
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* Z-index */
+  --z-index-dropdown: 1000;
+  --z-index-sticky: 1020;
+  --z-index-fixed: 1030;
+  --z-index-modal: 1040;
+  --z-index-popover: 1050;
+  --z-index-tooltip: 1060;
+
+  /* Card Styles */
+  --card-border-radius: var(--border-radius-md);
+  --card-shadow: 0 4px 10px var(--shadow-color);
+  --card-shadow-hover: 0 10px 20px var(--shadow-color-heavy);
+  --hover-shadow-color: rgba(255, 193, 7, 0.2);
+  --overlay-gradient: linear-gradient(
+    to top,
+    rgba(18, 18, 18, 0.95),
+    rgba(18, 18, 18, 0.85) 30%,
+    rgba(18, 18, 18, 0.65) 60%,
+    rgba(18, 18, 18, 0.4)
+  );
+
+  /* Light Mode Card Styles */
+  --light-card-shadow: 0 4px 6px var(--light-shadow-color);
+  --light-card-shadow-hover: 0 8px 15px var(--light-shadow-color-heavy);
+  --light-hover-shadow-color: rgba(255, 152, 0, 0.2);
+  --light-overlay-gradient: linear-gradient(
+    to top,
+    rgba(255, 255, 255, 0.95),
+    rgba(255, 255, 255, 0.85) 30%,
+    rgba(255, 255, 255, 0.65) 60%,
+    rgba(255, 255, 255, 0.4)
+  );
+
+  /* Card Animation Variables */
+  --card-hover-translateY: -12px;
+  --card-hover-scale: 1.03;
+  --card-img-hover-scale: 1.12;
+  --card-img-hover-rotate: -1deg;
+
+  /* Add new blur variables */
+  --blur-strong: 20px;
+  --blur-medium: 12px;
+  --blur-light: 8px;
+
+  /* Card backdrop filters */
+  --card-backdrop-dark: blur(var(--blur-medium)) brightness(0.8) saturate(1.2);
+  --card-backdrop-light: blur(var(--blur-medium)) brightness(1.1) saturate(0.9);
+}

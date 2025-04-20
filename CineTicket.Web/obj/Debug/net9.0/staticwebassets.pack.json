@@ -1,28 +1,60 @@
 {
   "Files": [
     {
-      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/auth.css",
-      "PackagePath": "staticwebassets/css/auth.css"
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/base/reset.css",
+      "PackagePath": "staticwebassets/css/base/reset.css"
     },
     {
-      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/footer.css",
-      "PackagePath": "staticwebassets/css/footer.css"
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/base/theme.css",
+      "PackagePath": "staticwebassets/css/base/theme.css"
     },
     {
-      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/movie-card.css",
-      "PackagePath": "staticwebassets/css/movie-card.css"
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/base/utilities.css",
+      "PackagePath": "staticwebassets/css/base/utilities.css"
     },
     {
-      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/navbar.css",
-      "PackagePath": "staticwebassets/css/navbar.css"
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/base/variables.css",
+      "PackagePath": "staticwebassets/css/base/variables.css"
     },
     {
-      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/search.css",
-      "PackagePath": "staticwebassets/css/search.css"
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/components/auth.css",
+      "PackagePath": "staticwebassets/css/components/auth.css"
     },
     {
-      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/components/footer.css",
+      "PackagePath": "staticwebassets/css/components/footer.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/components/movie-card.css",
+      "PackagePath": "staticwebassets/css/components/movie-card.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/components/navbar.css",
+      "PackagePath": "staticwebassets/css/components/navbar.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/components/scroll-to-top.css",
+      "PackagePath": "staticwebassets/css/components/scroll-to-top.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/components/search.css",
+      "PackagePath": "staticwebassets/css/components/search.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/components/theme-toggle.css",
+      "PackagePath": "staticwebassets/css/components/theme-toggle.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/pages/home.css",
+      "PackagePath": "staticwebassets/css/pages/home.css"
+    },
+    {
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/css/pages/movie-details.css",
+      "PackagePath": "staticwebassets/css/pages/movie-details.css"
     },
     {
       "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/cast/cast1.png",
@@ -53,8 +85,8 @@
       "PackagePath": "staticwebassets/images/cast/default-actor.jpg"
     },
     {
-      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/logo.png",
-      "PackagePath": "staticwebassets/images/logo.png"
+      "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/hero.jpg",
+      "PackagePath": "staticwebassets/images/hero.jpg"
     },
     {
       "Id": "/Users/yousefabdullah/Desktop/CIneTicket/CineTicket.Web/wwwroot/images/movies/13th.jpg",

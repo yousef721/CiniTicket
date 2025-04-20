@@ -9,7 +9,9 @@
   margin: var(--spacing-lg) auto;
   max-width: 800px;
   box-shadow: 0 8px 25px var(--theme-shadow);
-  transition: all 0.4s var(--transition-timing);
+  transition: transform 0.4s var(--transition-timing), 
+              box-shadow 0.4s var(--transition-timing), 
+              border-color 0.4s var(--transition-timing);
   border: 1px solid var(--theme-border);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -25,7 +27,8 @@
   border: 2px solid var(--theme-primary);
   border-radius: var(--border-radius-lg);
   overflow: hidden;
-  transition: all 0.4s var(--transition-timing);
+  transition: border-color 0.4s var(--transition-timing), 
+              box-shadow 0.4s var(--transition-timing);
   box-shadow: 0 2px 10px var(--theme-shadow);
 }
 
@@ -40,7 +43,8 @@
   font-size: var(--font-size-lg);
   background: var(--theme-bg);
   color: var(--theme-text);
-  transition: all 0.3s var(--transition-timing);
+  transition: background 0.3s var(--transition-timing), 
+              color 0.3s var(--transition-timing);
   width: 100%;
   accent-color: var(--theme-primary);
 }
@@ -67,7 +71,9 @@
   border: none;
   color: var(--theme-bg-secondary);
   font-weight: 600;
-  transition: all 0.4s var(--transition-timing);
+  transition: background 0.4s var(--transition-timing), 
+              transform 0.4s var(--transition-timing), 
+              box-shadow 0.4s var(--transition-timing);
   position: relative;
   overflow: hidden;
   z-index: 1;

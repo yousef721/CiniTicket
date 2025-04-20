@@ -1,0 +1,27 @@
+/* CineTicket Main CSS File
+ * This file imports all other CSS files in the correct order
+ */
+
+/* Base styles */
+@import url("base/variables.css");
+@import url("base/reset.css");
+@import url("base/theme.css");
+@import url("base/utilities.css");
+
+/* Components */
+@import url("components/navbar.css");
+@import url("components/footer.css");
+@import url("components/movie-card.css");
+@import url("components/search.css");
+@import url("components/auth.css");
+@import url("components/theme-toggle.css");
+@import url("components/scroll-to-top.css");
+
+/* Pages */
+@import url("pages/home.css");
+@import url("pages/movie-details.css");
+
+/* Site-wide custom styles that don't fit elsewhere */
+.main-content {
+  min-height: calc(100vh - 160px);
+}

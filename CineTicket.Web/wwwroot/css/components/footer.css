@@ -1,0 +1,7 @@
+.footer {
+  background: var(--theme-bg-secondary);
+}
+
+.footer p {
+  color: var(--theme-text);
+}

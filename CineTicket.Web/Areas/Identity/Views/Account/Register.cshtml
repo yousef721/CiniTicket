@@ -4,18 +4,18 @@
     ViewData["Title"] = "Register";
 }
 
-<div class="auth-container">
-    <div class="auth-card">
-        <div class="auth-header">
-            <i class="bi bi-film auth-icon"></i>
-            <h2>Create New Account</h2>
-            <p>Join CineTicket today</p>
+<div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="auth-card card card shadow-sm rounded-4  p-4 p-md-5 w-100">
+        <div class="auth-header text-primary-custom text-center mb-4">
+            <i class="bi bi-film auth-icon fs-1 d-inline-block primary-color-custom"></i>
+            <h2 class="mt-2 fw-semibold text-primary-custom">Create New Account</h2>
+            <p class="text-muted">Join CineTicket today</p>
         </div>
 
         <form asp-area="Identity" asp-controller="Account" asp-action="Register" method="post" class="auth-form">
-            <div asp-validation-summary="ModelOnly" class="validation-summary"></div>
+            <div asp-validation-summary="ModelOnly" class="validation-summary mb-3"></div>
 
-            <div class="row">
+            <div class="row g-3 mb-3">
                 <div class="col-md-6">
                     <div class="form-group">
                         <label asp-for="FirstName" class="form-label">First Name</label>
@@ -28,6 +28,7 @@
                         <span asp-validation-for="FirstName" class="validation-message"></span>
                     </div>
                 </div>
+
                 <div class="col-md-6">
                     <div class="form-group">
                         <label asp-for="LastName" class="form-label">Last Name</label>
@@ -42,7 +43,7 @@
                 </div>
             </div>
 
-            <div class="form-group">
+            <div class="form-group mb-3">
                 <label asp-for="Email" class="form-label">Email</label>
                 <div class="input-group">
                     <span class="input-group-text">
@@ -53,7 +54,7 @@
                 <span asp-validation-for="Email" class="validation-message"></span>
             </div>
 
-            <div class="form-group">
+            <div class="form-group mb-3">
                 <label asp-for="Password" class="form-label">Password</label>
                 <div class="input-group">
                     <span class="input-group-text">
@@ -64,7 +65,7 @@
                 <span asp-validation-for="Password" class="validation-message"></span>
             </div>
 
-            <div class="form-group">
+            <div class="form-group mb-4">
                 <label asp-for="ConfirmPassword" class="form-label">Confirm Password</label>
                 <div class="input-group">
                     <span class="input-group-text">
@@ -75,14 +76,14 @@
                 <span asp-validation-for="ConfirmPassword" class="validation-message"></span>
             </div>
 
-            <button type="submit" class="auth-btn">
+            <button type="submit" class="auth-btn btn btn-primary-custom fw-semibold w-100 d-flex justify-content-center align-items-center gap-2 mb-3">
                 <i class="bi bi-person-plus-fill"></i>Register
             </button>
 
-            <div class="auth-footer">
+            <div class="auth-footer text-center mt-3 pt-2">
                 <p>
                     Already have an account? 
-                    <a asp-area="Identity" asp-controller="Account" asp-action="Login">
+                    <a asp-area="Identity" asp-controller="Account" asp-action="Login" class="link-line">
                         Login here
                     </a>
                 </p>
@@ -93,5 +94,4 @@
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
-    <link rel="stylesheet" href="~/css/auth.css" />
 }

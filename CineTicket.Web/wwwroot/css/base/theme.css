@@ -1,0 +1,76 @@
+/* Theme Mode Styles */
+body {
+  font-family: var(--font-family);
+  color: var(--theme-text);
+  background: linear-gradient(
+      135deg,
+      var(--theme-bg),
+      var(--theme-bg-secondary)
+    )
+    fixed;
+}
+
+/* Dark mode theme variables */
+.dark-mode {
+  --theme-primary: var(--primary-color);
+  --theme-primary-hover: var(--primary-hover);
+  --theme-primary-light: var(--primary-light);
+  --theme-primary-dark: var(--primary-dark);
+  --theme-primary-rgb: var(--primary-rgb);
+
+  --theme-bg: var(--dark-bg);
+  --theme-bg-secondary: var(--darker-bg);
+  --theme-bg-tertiary: var(--light-bg);
+
+  --theme-text: var(--text-color);
+  --theme-text-muted: var(--text-muted);
+  --theme-text-light: var(--text-light);
+
+  --theme-shadow: var(--shadow-color);
+  --theme-shadow-heavy: var(--shadow-color-heavy);
+  --theme-shadow-light: var(--shadow-color-light);
+  --theme-border: var(--border-color);
+  --theme-border-hover: var(--border-color-hover);
+  --theme-hover-shadow: var(--hover-shadow-color);
+
+  --theme-card-shadow: var(--card-shadow);
+  --theme-card-shadow-hover: var(--card-shadow-hover);
+  --theme-overlay-gradient: var(--overlay-gradient);
+}
+
+/* Light Mode Theme Variables */
+body:not(.dark-mode) {
+  --theme-primary: var(--light-primary-color);
+  --theme-primary-hover: var(--light-primary-hover);
+  --theme-primary-light: var(--light-primary-light);
+  --theme-primary-dark: var(--light-primary-dark);
+  --theme-primary-rgb: var(--light-primary-rgb);
+
+  --theme-bg: var(--light-bg);
+  --theme-bg-secondary: var(--light-bg-secondary);
+  --theme-bg-tertiary: var(--light-bg-tertiary);
+
+  --theme-text: var(--light-text-color);
+  --theme-text-muted: var(--light-text-muted);
+  --theme-text-light: var(--light-text-dark);
+
+  --theme-shadow: var(--light-shadow-color);
+  --theme-shadow-heavy: var(--light-shadow-color-heavy);
+  --theme-shadow-light: var(--light-shadow-color-light);
+  --theme-border: var(--light-border-color);
+  --theme-border-hover: var(--light-border-color-hover);
+  --theme-hover-shadow: var(--light-hover-shadow-color);
+
+  --theme-card-shadow: var(--light-card-shadow);
+  --theme-card-shadow-hover: var(--light-card-shadow-hover);
+  --theme-overlay-gradient: var(--light-overlay-gradient);
+}
+
+/* Focus States */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus {
+  /* box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem var(--theme-primary); */
+  outline: none;
+}

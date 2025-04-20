@@ -1,0 +1,31 @@
+/* Scroll to Top Button */
+.scroll-to-top {
+    position: fixed;
+    bottom: var(--spacing-md);
+    right: var(--spacing-md);
+    background: var(--theme-primary);
+    width: 50px; 
+    height: 50px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease,
+      background-color 0.3s ease;
+    z-index: var(--z-index-fixed);
+    box-shadow: 0 4px 15px var(--theme-shadow);
+    will-change: transform, opacity, background-color;
+}
+  
+.scroll-to-top.visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+  
+.scroll-to-top:hover {
+    background: var(--theme-primary-hover);
+    transform: translateY(-5px); 
+}

@@ -1,0 +1,43 @@
+.hero {
+  background-image: url("/images/hero.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero .hero-overlay {
+  background:  rgba(0, 0, 0, 0.300);
+}
+
+.hero-title {
+  color: var(--theme-primary);
+}
+
+.hero-btn {
+  background: var(--theme-primary);
+  color: black;
+}
+.hero-btn:hover {
+  border: 1px solid #fff;
+}
+
+.hero-badge {
+  border: 1px solid var(--theme-primary);
+}
+.hero-badge:hover {
+  background: var(--theme-primary);
+  color: black;
+}
+
+.section-title {
+  color: var(--theme-text-light);
+}
+
+.section-title::after {
+  content: "";
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  width: 40%;
+  height: 3px;
+  background-color: var(--theme-primary);
+}
